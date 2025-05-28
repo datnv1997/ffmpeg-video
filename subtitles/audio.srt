@@ -1,1280 +1,456 @@
 1
-00:00:00,000 --> 00:00:01,320
-Welcome to the deep dive.
+00:00:00,000 --> 00:00:06,639
+There are few scenarios more terrifying than being buried alive. It's the stuff of nightmares,
 
 2
-00:00:02,100 --> 00:00:04,339
-So this time we're digging into the 2025
+00:00:07,099 --> 00:00:15,439
+horror films, and Gothic fiction. But in December 1968, for one young woman from Florida,
 
 3
-00:00:04,339 --> 00:00:06,000
-American Music Awards.
+00:00:15,900 --> 00:00:23,640
+that fear became a grueling and all-terreal experience. Barbara Jane Mackle, a 20-year-old
 
 4
-00:00:06,679 --> 00:00:08,679
-You know, the show that made a bit of a comeback this year.
+00:00:23,640 --> 00:00:31,079
+university student and heiress to a multi-million dollar fortune, was kidnapped at gunpoint and
 
 5
-00:00:08,839 --> 00:00:10,060
-Yeah, it was off the air for a bit.
+00:00:31,079 --> 00:00:38,799
+left in a purpose-built box beneath the Georgia Soul. Remarkably, she survived her story,
 
 6
-00:00:10,439 --> 00:00:12,380
-We basically got a few different takes here.
+00:00:39,200 --> 00:00:45,259
+one of calm resilience under unthinkable circumstances, remains one of the most bizarre
 
 7
-00:00:12,820 --> 00:00:14,619
-There's a review from page six,
+00:00:45,259 --> 00:00:52,939
+and chilling kidnappings in American criminal history. A heiress in peril, Barbara Mackle was,
 
 8
-00:00:15,400 --> 00:00:17,539
-an article from the standard focusing
+00:00:52,939 --> 00:00:59,899
+by all accounts, living a comfortable and privileged life. The daughter of Robert Mackle,
 
 9
-00:00:17,539 --> 00:00:18,960
-on Taylor Swift's absence,
+00:01:00,359 --> 00:01:07,439
+a prominent Florida property developer and head of Deltona Corporation, Barbara had wealth,
 
 10
-00:00:19,100 --> 00:00:20,339
-which was a big talking point.
+00:01:08,099 --> 00:01:14,560
+status, and a promising future. The Mackle family were closed to political power, too.
 
 11
-00:00:20,559 --> 00:00:22,100
-Right, and a USA Today preview
+00:01:15,280 --> 00:01:23,480
+Family friends included Senator George Smathers and even President-elect Richard Nixon. Barbara
 
 12
-00:00:22,100 --> 00:00:23,699
-that kind of laid out the basics,
+00:01:23,480 --> 00:01:30,579
+was studying at Emory University in Atlanta when the Hong Kong flu swept through campus in
 
 13
-00:00:24,219 --> 00:00:26,920
-how to watch who's up for awards performing,
+00:01:30,579 --> 00:01:39,959
+December 1968, feeling increasingly unwell. She left an exam early and called her mother Jane
 
 14
-00:00:26,920 --> 00:00:30,480
-and then the full rundown of who actually won
+00:01:39,959 --> 00:01:45,900
+to collect her so she could return home to Coral Gables for the Christmas break.
 
 15
-00:00:30,480 --> 00:00:31,460
-from CBS News.
+00:01:46,480 --> 00:01:55,359
+They checked into room 137 at a nearby motel, the roadway inn. Planning to leave for Florida
 
 16
-00:00:31,660 --> 00:00:34,619
-Exactly, so whether you're a huge music fan
+00:01:55,359 --> 00:02:02,920
+the next day, the 4 a.m. knock. What happened in the early hours of the 17th of December reads
 
 17
-00:00:34,619 --> 00:00:36,719
-or maybe more interested in celebrity stuff
+00:02:02,920 --> 00:02:09,060
+like the beginning of a crime thriller. At around 4 a.m. there was a knock at the door,
 
 18
-00:00:36,719 --> 00:00:38,200
-or maybe you just heard it was kind of
+00:02:09,060 --> 00:02:15,680
+a man claiming to be a detective said there had been a traffic accident involving a white Ford.
 
 19
-00:00:38,940 --> 00:00:40,159
-unmemorable and you're curious,
+00:02:16,479 --> 00:02:21,800
+The same type of car driven by Barbara's boyfriend, Stuart Woodward,
 
 20
-00:00:40,920 --> 00:00:43,060
-we've sort of sifted through all this stuff for you.
+00:02:22,060 --> 00:02:27,659
+who had visited them earlier that evening, alarm, Jane opened the door.
 
 21
-00:00:43,200 --> 00:00:44,960
-We're gonna try and unpack the main moments,
+00:02:28,180 --> 00:02:34,400
+Instead of a detective, two masked individuals forced their way inside.
 
 22
-00:00:45,299 --> 00:00:47,259
-figure out why some big names stayed away,
+00:02:35,120 --> 00:02:42,840
+One was tall and carried a shotgun. The other, shorter and slighter, appeared to be a teenage
 
 23
-00:00:47,399 --> 00:00:48,799
-look at the surprises in the winners list.
+00:02:42,840 --> 00:02:51,439
+ball, later revealed to be a woman in disguise. The taller intruder, Gary Stephen Christ,
 
 24
-00:00:48,899 --> 00:00:50,299
-And just get a feel for the whole vibe
+00:02:51,879 --> 00:02:57,759
+used chloroform to subdue Jane while the accomplice, Ruth Iceman Shear,
 
 25
-00:00:50,299 --> 00:00:51,920
-of the show this year based on these reports.
+00:02:57,759 --> 00:03:05,400
+bound her hands and feet. Barbara was taken at gunpoint and forced into their waiting car.
 
 26
-00:00:52,159 --> 00:00:52,780
-That's the plan.
+00:03:06,039 --> 00:03:14,620
+Jane Mackle regained consciousness quickly and alerted the police. But by then Barbara was being
 
 27
-00:00:53,100 --> 00:00:56,179
-Okay, so the AMAs, back for the 51st time,
+00:03:14,620 --> 00:03:22,580
+transported north away from Atlanta and into the Georgia countryside. A box beneath the earth,
 
 28
-00:00:56,179 --> 00:00:57,159
-that's quite a run,
+00:03:22,580 --> 00:03:29,039
+the kidnappers drove Barbara to a secluded pine grove in Gwinnett County, Georgia,
 
 29
-00:00:57,380 --> 00:00:59,759
-but it was the first proper show since 2022,
+00:03:29,400 --> 00:03:35,759
+where they had prepared a coffin-like box to imprison her. It was no ordinary box.
 
 30
-00:01:00,079 --> 00:01:02,880
-because last year was that 15th anniversary special thing.
+00:03:36,400 --> 00:03:43,219
+It had been reinforced with fiberglass and fitted with air pipes to battery power lamp,
 
 31
-00:01:03,119 --> 00:01:05,379
-And not in its usual home either.
+00:03:43,400 --> 00:03:51,479
+a supply of water laced with sedatives and food. It even included a fan to circulate air,
 
 32
-00:01:05,599 --> 00:01:07,159
-No, that was a big change.
+00:03:51,479 --> 00:03:59,560
+the attention to detail was chilling. Barbara was sedated and locked inside before Christ,
 
 33
-00:01:07,359 --> 00:01:09,420
-Yeah, traditionally it's always been in Los Angeles, right?
+00:03:59,860 --> 00:04:06,879
+and Iceman Shear buried the box beneath 45 centimeters around a foot and a half of earth.
 
 34
-00:01:09,780 --> 00:01:10,900
-But this year, 2025,
+00:04:07,219 --> 00:04:14,860
+Inside she found this message. Do not be alarmed. You are safe. You are presently inside a
 
 35
-00:01:11,379 --> 00:01:13,000
-they shipped it out to the Fontainebleau
+00:04:14,860 --> 00:04:21,120
+fiberglass reinforced plywood capsule buried beneath the ground near the house in which
 
 36
-00:01:13,000 --> 00:01:15,819
-in Las Vegas and a different TV network too.
+00:04:21,120 --> 00:04:27,160
+your kidnappers are staying. Your status will be checked approximately every two hours.
 
 37
-00:01:15,900 --> 00:01:18,480
-It was on CBS after being on ABC for ages,
+00:04:27,759 --> 00:04:34,620
+The capsule is quite strong. You will not be able to break it open. Be advised, however,
 
 38
-00:01:18,760 --> 00:01:20,659
-plus they aired it on Memorial Day.
+00:04:35,180 --> 00:04:41,319
+that you are beneath the water table. If you break open a scene you would drown before we could
 
 39
-00:01:20,819 --> 00:01:22,180
-Memorial Day, that's weird.
+00:04:41,319 --> 00:04:47,279
+dig you out, the capsule instrumentation contains a water sensitive switch which will
 
 40
-00:01:22,280 --> 00:01:25,739
-Is it normally like November before Thanksgiving?
+00:04:47,279 --> 00:04:54,620
+warn us if the water enters the capsule to a dangerous degree. Your life depends on the air
 
 41
-00:01:25,739 --> 00:01:26,900
-Usually, yeah.
+00:04:54,620 --> 00:05:01,759
+delivered to your chamber via the ventilation fan. This fan is powered by elite acid storage
 
 42
-00:01:27,879 --> 00:01:31,439
-So quite a few major shifts, location, network, date.
+00:05:01,759 --> 00:05:10,300
+battery capable of supplying the fan motor with power for 270 hours. However, the use of the
 
 43
-00:01:31,780 --> 00:01:33,579
-You kind of have to wonder what the thinking was there,
+00:05:10,300 --> 00:05:17,060
+light and other systems for only a few hours coupled with the higher amperage drain will reduce
 
 44
-00:01:33,760 --> 00:01:34,700
-trying to shake things up.
+00:05:17,060 --> 00:05:23,500
+this figure to only one week of safety. Should the air supplied prove to be too much,
 
 45
-00:01:35,540 --> 00:01:36,760
-Logistics, who knows?
+00:05:23,660 --> 00:05:29,860
+you can partly block the air outlet with a piece of paper. A muffler has been placed in the air
 
 46
-00:01:36,959 --> 00:01:37,980
-Yeah, it definitely makes you wonder.
+00:05:29,860 --> 00:05:36,680
+passage to prevent any noise you make from reaching the surface. If we detect any
 
 47
-00:01:38,540 --> 00:01:39,840
-And speaking of things missing,
+00:05:36,680 --> 00:05:43,800
+commotion which we feel is dangerous, we will introduce ether to the air intake and put you to
 
 48
-00:01:40,180 --> 00:01:43,500
-a lot of big artists were missing too,
+00:05:43,800 --> 00:05:51,519
+sleep. The fan operates on six volts. IT has a switch with two positions to switch between the
 
 49
-00:01:43,620 --> 00:01:45,359
-like absent from the ceremony itself.
+00:05:51,519 --> 00:05:58,279
+two available circuits. Should one circuit fail, turn to the other. The box has a pump which
 
 50
-00:01:45,439 --> 00:01:45,959
-Oh, for sure.
+00:05:58,279 --> 00:06:05,420
+will evacuate any accidental leakage from the box when you turn the pump switch on to the
 
 51
-00:01:46,159 --> 00:01:47,560
-Taylor Swift being the big one, obviously.
+00:06:05,420 --> 00:06:15,959
+on position. This pump uses 15 times as much power as your ventilation fan 7.5 amps. Your life support
 
 52
-00:01:47,599 --> 00:01:49,959
-She holds the record, what is it, 40 AMAs?
+00:06:15,959 --> 00:06:24,220
+battery will not allow use of the pump except for emergency water evacuation. The light uses two
 
 53
-00:01:50,060 --> 00:01:50,640
-40, yeah.
+00:06:24,220 --> 00:06:31,560
+five times the average of the air circulation system. Use of the light when not necessary
 
 54
-00:01:51,099 --> 00:01:53,560
-And the standard really zeroed in on her absence.
+00:06:31,560 --> 00:06:37,600
+will cut your battery safety margins substantially. If you use the light continuously,
 
 55
-00:01:54,219 --> 00:01:56,400
-Especially because the fans were so hyped up.
+00:06:38,360 --> 00:06:45,079
+your life expectancy will be cut to one third of the week. You have allotted you before you are
 
 56
-00:01:56,400 --> 00:01:58,180
-Oh, the fan speculation was intense.
+00:06:45,079 --> 00:06:51,680
+released. Your capsule contains a water jug with three gallons of water and a tube from
 
 57
-00:01:58,319 --> 00:01:59,480
-I mean, the article gets into it,
+00:06:51,680 --> 00:06:57,360
+which to drink IT. Be careful to blow the water from the tube when you are finished
 
 58
-00:01:59,540 --> 00:02:01,040
-how Swifties were decoding everything,
+00:06:57,360 --> 00:07:04,720
+drinking to avoid siphoning the water onto the floor when the tube end drops below the water level.
 
 59
-00:02:01,459 --> 00:02:04,000
-her online store, apparently the way things were categorized,
+00:07:05,000 --> 00:07:11,920
+Your capsule contains a bucket for refuse and the products of your bowel movements. The bucket
 
 60
-00:02:04,120 --> 00:02:05,180
-spelled out AMAs.
+00:07:11,920 --> 00:07:20,339
+has an antibacterial solution in IT. Don't tip IT over. The lid seals tightly to prevent
 
 61
-00:02:05,859 --> 00:02:08,060
-Yeah, and clues in the Handmaid's Tale somehow.
+00:07:20,339 --> 00:07:28,720
+the escape of odors. A roll of wax paper is provided. Use it to prevent solid waste from
 
 62
-00:02:09,060 --> 00:02:10,560
-All pointing, they thought,
+00:07:28,720 --> 00:07:37,540
+contaminating your bed. Kotex is provided should you need IT. Lancettes and a mat are provided.
 
 63
-00:02:10,780 --> 00:02:13,060
-to her maybe announcing reputation.
+00:07:37,980 --> 00:07:44,699
+Your warmth depends on body heat so regulate the air to prevent loss of heat from the capsule.
 
 64
-00:02:13,719 --> 00:02:14,280
-Taylor's version.
+00:07:45,259 --> 00:07:53,220
+A case of candy is provided to furnish energy to your body. Tranquilizers are provided to aid you
 
 65
-00:02:14,460 --> 00:02:15,500
-Ah, the re-records.
+00:07:53,220 --> 00:08:00,959
+in sleeping. The best way you have to pass the time. The ventilation system is doubly screened
 
 66
-00:02:16,000 --> 00:02:18,240
-Exactly, for anyone listening who doesn't follow closely,
+00:08:00,959 --> 00:08:07,819
+to prevent insects or animals from entering the capsule area. You risk being eaten by ants
 
 67
-00:02:18,319 --> 00:02:20,680
-that's Taylor re-recording her old albums.
+00:08:07,819 --> 00:08:14,399
+should you break these protection screens. The electrical components behind these screens
 
 68
-00:02:20,680 --> 00:02:22,659
-And the date, May 26th,
+00:08:14,399 --> 00:08:21,699
+are delicate and they support your life. Don't attempt to touch these circuits. We're sure your
 
 69
-00:02:22,659 --> 00:02:25,139
-was apparently significant in the fan theories too.
+00:08:21,699 --> 00:08:29,100
+father will pay the ransom we have asked and last in one week. When your father pays the ransom
 
 70
-00:02:25,360 --> 00:02:26,860
-So yeah, the Swifties were ready,
+00:08:29,100 --> 00:08:35,740
+we will tell him where you are and he'll come for you. Should he fail to pay we will release you.
 
 71
-00:02:27,159 --> 00:02:28,300
-but she wasn't there.
+00:08:36,299 --> 00:08:41,940
+So be calm and rest. You'll be home for Christmas one way or the other.
 
 72
-00:02:29,599 --> 00:02:31,379
-Nominated for six awards, I think.
+00:08:42,500 --> 00:08:50,059
+She remained buried alive for more than 80 hours. Barbara later wrote about her ordeal in her memoir
 
 73
-00:02:31,659 --> 00:02:32,539
-Yep, six nominations.
+00:08:50,059 --> 00:08:58,799
+83 hours till dawn where she described the moment the box was sealed and the dirt began to pile up.
 
 74
-00:02:32,979 --> 00:02:34,340
-Big ones too, Artist of the Year,
+00:08:59,200 --> 00:09:06,820
+I screamed and screamed the sound of the dirt got farther and farther away. Finally I couldn't
 
 75
-00:02:34,419 --> 00:02:36,259
-Album of the Year for Tortured Poets Department.
+00:09:06,820 --> 00:09:14,940
+hear anything above. I screamed for a long time after that with no way to track the passage of time.
 
 76
-00:02:36,400 --> 00:02:37,860
-But didn't attend, didn't win any.
+00:09:15,220 --> 00:09:21,679
+She survived by focusing on the image of spending Christmas morning with her family, the ransom
 
 77
-00:02:38,020 --> 00:02:39,580
-Nope, and then there was Kendrick Lamar,
+00:09:22,180 --> 00:09:32,019
+and FBI manhunt. Barbara's father, Robert Mackle, received a ransom demand for $500, zero.
 
 78
-00:02:39,719 --> 00:02:41,919
-he actually led the nominations, had 10.
+00:09:32,019 --> 00:09:40,299
+The equivalent of around for $0.3 million in today's money. He agreed without hesitation
 
 79
-00:02:42,139 --> 00:02:44,960
-10 AMAs, and he wasn't there either.
+00:09:40,299 --> 00:09:47,139
+a first attempt had a ransom drop fail when two policemen happened to drive by causing the
 
 80
-00:02:45,099 --> 00:02:47,240
-Also absent, Page Six mentioned he was on tour,
+00:09:47,139 --> 00:09:54,659
+kidnappers to flee, abandoning their car in the process. Inside that car were several crucial
 
 81
-00:02:47,400 --> 00:02:49,120
-which makes sense, though interestingly,
+00:09:54,659 --> 00:10:03,139
+clues, photographs, chloroform and documents pointing to a man named George D. Deacon who
 
 82
-00:02:49,120 --> 00:02:51,939
-his tourmate SCA did make it.
+00:10:03,139 --> 00:10:10,139
+worked at the University of Miami's Marine Science Department. He had experience constructing
 
 83
-00:02:52,379 --> 00:02:53,280
-But it wasn't just them,
+00:10:10,139 --> 00:10:18,580
+ventilated boxes which raised red flags with the FBI. Further investigation revealed that
 
 84
-00:02:53,879 --> 00:02:55,659
-Billie Eilish won a ton of awards,
+00:10:18,580 --> 00:10:27,240
+Deacon didn't exist. He was an alias being used by Gary Stephen Christ, a 23-year-old who had
 
 85
-00:02:55,900 --> 00:02:57,560
-seven in total, also absent.
+00:10:27,240 --> 00:10:35,039
+escaped from a California prison in 1966. The ransom was successfully delivered on the second
 
 86
-00:02:57,680 --> 00:02:59,180
-Seven awards and she didn't show up.
+00:10:35,039 --> 00:10:44,179
+attempt. Soon after, Christ made a call to the FBI giving vague directions to Barbara's location.
 
 87
-00:02:59,699 --> 00:03:02,460
-Wow, yeah, and that really brings up a big question,
+00:10:44,179 --> 00:10:51,639
+More than 100 FBI agents descended on the pine forest near Lawrenceville, Georgia.
 
 88
-00:03:02,599 --> 00:03:04,039
-you know, what to say about the AMAs
+00:10:52,259 --> 00:11:00,799
+Using only the cryptic clues provided, they scoured the area with shovels, tools and their bare hands.
 
 89
-00:03:04,039 --> 00:03:05,400
-when so many of the top nominees,
+00:11:01,139 --> 00:11:07,259
+Finally, on the 20th of December, after three and a half days underground,
 
 90
-00:03:05,479 --> 00:03:06,580
-especially for Artist of the Year,
+00:11:07,259 --> 00:11:15,980
+Barbara was found alive. She was dehydrated but in surprisingly good condition. Her ability to
 
 91
-00:03:07,060 --> 00:03:09,060
-I think SCA was the only one actually in the room
+00:11:15,980 --> 00:11:24,940
+remain calm and mentally focused was later described as extraordinary. After math and arrests, Barbara
 
 92
-00:03:09,060 --> 00:03:09,759
-from that category.
+00:11:24,940 --> 00:11:32,580
+was taken home to Florida where she celebrated Christmas with her family just as she had in
 
 93
-00:03:10,139 --> 00:03:10,560
-Seriously?
+00:11:32,580 --> 00:11:40,039
+vision while trapped underground. Publicly, she seemed to recover well, though she made
 
 94
-00:03:10,860 --> 00:03:13,400
-Yeah, and the winner, Eilish,
+00:11:40,039 --> 00:11:47,740
+few appearances in the media in the years following. Meanwhile, the FBI intensified their
 
 95
-00:03:13,580 --> 00:03:14,699
-just sent a video message.
+00:11:47,740 --> 00:11:55,060
+search for the kidnappers. Christ was captured just days later. Sailing a speedboat off the
 
 96
-00:03:14,939 --> 00:03:17,180
-It definitely makes you wonder if these big award shows
+00:11:55,200 --> 00:12:03,299
+coast of Florida, bought using part of the ransom money, Iceman Shear was caught months later in
 
 97
-00:03:17,180 --> 00:03:19,759
-still have the same poll for artists anymore.
+00:12:03,299 --> 00:12:10,480
+Oklahoma after her fingerprints matched those on file when she applied for a job at a hospital.
 
 98
-00:03:20,139 --> 00:03:21,699
-Hmm, good point, yeah.
+00:12:11,139 --> 00:12:19,720
+Christ was sentenced to life in prison in 1969 that served only 10 years before being paroled
 
 99
-00:03:21,900 --> 00:03:23,259
-Maybe their priorities are just shifting.
+00:12:19,720 --> 00:12:27,259
+in an astonishing twist. He later received a pardon that allowed him to attend medical school.
 
 100
-00:03:23,860 --> 00:03:26,240
-Now someone who was there, front and center,
+00:12:27,820 --> 00:12:35,460
+He became a licensed physician in Indiana. Both this to ended in scandal. His medical license
 
 101
-00:03:26,500 --> 00:03:28,840
-was Jennifer Lopez, hosting again.
+00:12:35,460 --> 00:12:43,039
+was revoked in 2003 after it emerged. He had lied about disciplinary actions during his
 
 102
-00:03:28,919 --> 00:03:30,199
-Second time hosting for her,
+00:12:43,039 --> 00:12:52,379
+residency. Christ's post-prison career continued to raise eyebrows. In 2006, he was arrested aboard
 
 103
-00:03:30,520 --> 00:03:33,360
-and Page Six actually called her opening number one
+00:12:52,379 --> 00:13:00,659
+a sailboat off the coast of Alabama with 14 kilograms of cocaine and several undocumented
 
 104
-00:03:33,360 --> 00:03:35,379
-of the quote, best moments.
+00:13:00,659 --> 00:13:09,679
+immigrants. He was sentenced to over five years in prison then in 2012. He violated the terms
 
 105
-00:03:35,740 --> 00:03:36,599
-Okay, what did she do?
+00:13:09,679 --> 00:13:18,299
+of his probation by leaving the United States without permission sailing to Cuba and South America.
 
 106
-00:03:36,860 --> 00:03:39,419
-A big dance medley, high energy,
+00:13:18,639 --> 00:13:25,860
+His supervised release was revoked and he was sentenced to a further 40 months as for Ruth
 
 107
-00:03:39,879 --> 00:03:41,360
-lots of recent hits mashed up
+00:13:25,860 --> 00:13:32,860
+Iceman Shear. She was sentenced to seven years in prison but was paroled after for a
 
 108
-00:03:41,360 --> 00:03:42,840
-like Eilish's Birds of a Feather,
+00:13:32,860 --> 00:13:40,919
+deport to her native Honduras. She remains the first woman ever to appear on the FBI's most
 
 109
-00:03:43,379 --> 00:03:46,860
-Sabrina Carpenter's Espresso, Shibuzi's Tipsy,
+00:13:40,919 --> 00:13:48,580
+wanted list. A quiet life after trauma, Barbara Mackle rarely spoke publicly about the kidnapping
 
 110
-00:03:46,860 --> 00:03:48,639
-even Kendrick's Not Like Us.
+00:13:48,580 --> 00:13:58,460
+after her book was released in 1971. She moved back to Atlanta, married and raised a family.
 
 111
-00:03:48,800 --> 00:03:50,300
-Wow, okay, covering all the bases.
+00:13:58,460 --> 00:14:06,759
+Those who knew her described her as remarkably composed and private. A young woman who had endured
 
 112
-00:03:50,539 --> 00:03:52,060
-Yeah, and Benson Boone's Beautiful Things,
+00:14:06,759 --> 00:14:14,720
+one of the most harrowing experiences imaginable and moved forward without fanfare. The box she
 
 113
-00:03:52,259 --> 00:03:53,900
-Kissing Dancers, the whole J-Lo spectacle,
+00:14:14,720 --> 00:14:22,059
+was buried and was later displayed by the FBI at lectures on criminal psychology and kidnapping
 
 114
-00:03:54,460 --> 00:03:55,479
-sounds like a strong start.
-
-115
-00:03:55,759 --> 00:03:57,319
-But, I feel a butt coming.
-
-116
-00:03:57,659 --> 00:03:58,020
-Well, yeah.
-
-117
-00:03:58,560 --> 00:04:00,560
-The same review then listed her being a quote,
-
-118
-00:04:00,960 --> 00:04:02,340
-non-host for the rest of the night
-
-119
-00:04:02,340 --> 00:04:03,900
-as one of the worst moments.
-
-120
-00:04:04,219 --> 00:04:05,659
-Oof, non-host.
-
-121
-00:04:05,780 --> 00:04:06,819
-Apparently, Nikki Glaser,
-
-122
-00:04:06,919 --> 00:04:08,219
-who was just presenting an award,
-
-123
-00:04:08,340 --> 00:04:09,259
-made more of an impact.
-
-124
-00:04:09,819 --> 00:04:12,099
-The review suggested J-Lo's hosting felt more like
-
-125
-00:04:12,099 --> 00:04:13,460
-just a series of costume changes
-
-126
-00:04:13,460 --> 00:04:14,599
-after that opening burst.
-
-127
-00:04:15,120 --> 00:04:17,259
-So, kind of fell flat after the big intro.
-
-128
-00:04:17,459 --> 00:04:19,220
-That's the vibe you get from page six, yeah.
-
-129
-00:04:19,519 --> 00:04:21,500
-They did admit she brought star power,
-
-130
-00:04:21,660 --> 00:04:23,439
-but maybe the actual hosting part
-
-131
-00:04:23,439 --> 00:04:25,459
-wasn't consistently engaging.
-
-132
-00:04:25,759 --> 00:04:25,920
-Gotcha.
-
-133
-00:04:26,560 --> 00:04:27,839
-Okay, what about other performances?
-
-134
-00:04:28,379 --> 00:04:29,319
-There was a mix, right?
-
-135
-00:04:29,579 --> 00:04:30,660
-Benson Boone got a good mention.
-
-136
-00:04:30,860 --> 00:04:32,839
-Yeah, page six called his performance
-
-137
-00:04:32,839 --> 00:04:35,540
-of magical mystical another best moment,
-
-138
-00:04:35,920 --> 00:04:37,279
-saw him as a welcome,
-
-139
-00:04:37,819 --> 00:04:40,120
-like, young, energetic presence,
-
-140
-00:04:40,660 --> 00:04:42,120
-glittery, purple suit, apparently.
-
-141
-00:04:42,120 --> 00:04:42,680
-Nice.
-
-142
-00:04:43,000 --> 00:04:45,060
-Maybe a sign the reviewer wanted more
-
-143
-00:04:45,060 --> 00:04:47,259
-of that current rising star energy.
-
-144
-00:04:47,480 --> 00:04:47,860
-Makes sense.
-
-145
-00:04:48,319 --> 00:04:49,399
-Then we had Gwen Stefani,
-
-146
-00:04:49,639 --> 00:04:50,879
-introduced by Blake Shelton.
-
-147
-00:04:51,000 --> 00:04:51,920
-She performed too, right?
-
-148
-00:04:52,040 --> 00:04:53,180
-Yep, Blake did his thing.
-
-149
-00:04:53,480 --> 00:04:55,439
-Gwen did a medley Shallow My Tears,
-
-150
-00:04:55,620 --> 00:04:57,399
-but also the classic sweet escape,
-
-151
-00:04:57,560 --> 00:04:58,319
-Hollaback Girl.
-
-152
-00:04:58,720 --> 00:04:59,019
-Oh yeah.
-
-153
-00:04:59,259 --> 00:05:01,319
-Page six said it felt a bit vegas-y,
-
-154
-00:05:01,560 --> 00:05:02,839
-which, okay, they were in Vegas,
-
-155
-00:05:03,339 --> 00:05:05,819
-but mostly framed as a nostalgia trip.
-
-156
-00:05:06,000 --> 00:05:08,459
-Right, and Janet Jackson icon award,
-
-157
-00:05:08,579 --> 00:05:09,019
-that's huge.
-
-158
-00:05:09,319 --> 00:05:10,279
-Definitely a big moment.
-
-159
-00:05:10,279 --> 00:05:12,519
-Her first TV performance in, what, seven years,
-
-160
-00:05:12,639 --> 00:05:15,019
-she did someone to call my lover and all for you.
-
-161
-00:05:15,160 --> 00:05:15,899
-Classic Janet.
-
-162
-00:05:16,100 --> 00:05:16,480
-For sure.
-
-163
-00:05:16,759 --> 00:05:18,199
-Though the review wasn't thrilled
-
-164
-00:05:18,199 --> 00:05:20,379
-with the presenter choice for her award,
-
-165
-00:05:20,579 --> 00:05:22,579
-Tisha Smith for a co-star from a movie.
-
-166
-00:05:22,779 --> 00:05:23,720
-Oh, why not?
-
-167
-00:05:24,000 --> 00:05:26,800
-They felt someone with a stronger musical connection,
-
-168
-00:05:27,040 --> 00:05:29,959
-like Ciara or SCA, who she clearly influenced,
-
-169
-00:05:30,060 --> 00:05:33,860
-or even J.Lo would have felt more significant, you know?
-
-170
-00:05:33,920 --> 00:05:34,639
-Yeah, I could see that.
-
-171
-00:05:35,079 --> 00:05:36,740
-Presentation matters for those big awards.
-
-172
-00:05:37,019 --> 00:05:39,279
-And speaking of moments that didn't quite land,
-
-173
-00:05:40,339 --> 00:05:42,899
-Renee Rapp performed her new song, Leave Me Alone.
-
-174
-00:05:43,319 --> 00:05:43,639
-Okay.
-
-175
-00:05:43,740 --> 00:05:44,819
-The reviewer wasn't impressed,
-
-176
-00:05:45,040 --> 00:05:48,139
-felt like with so many other big stars absent,
-
-177
-00:05:48,139 --> 00:05:51,160
-giving that prime spot to someone performing new material,
-
-178
-00:05:51,839 --> 00:05:54,500
-they kind of implied she hadn't quite earned it yet,
-
-179
-00:05:54,759 --> 00:05:56,860
-or at least needed to really knock it out of the park.
-
-180
-00:05:57,000 --> 00:05:59,819
-Ouch, so again, hinting that maybe the performance lineup
-
-181
-00:05:59,819 --> 00:06:02,399
-wasn't as star-studded as it could have been.
-
-182
-00:06:02,579 --> 00:06:04,439
-That seems to be the underlying feeling, yeah.
-
-183
-00:06:04,540 --> 00:06:06,779
-Like the show was missing some top-tier firepower.
-
-184
-00:06:07,279 --> 00:06:09,420
-Rod Stewart also got a Lifetime Achievement Award
-
-185
-00:06:09,420 --> 00:06:10,660
-and performed Forever Young,
-
-186
-00:06:11,120 --> 00:06:13,019
-and Gloria Estefan performed, too,
-
-187
-00:06:13,180 --> 00:06:14,600
-first time in 30 years, apparently.
-
-188
-00:06:15,120 --> 00:06:15,920
-Wow, 30 years.
-
-189
-00:06:16,319 --> 00:06:18,319
-Okay, let's talk about the awards themselves then.
-
-190
-00:06:18,819 --> 00:06:20,660
-Billie Eilish clearly had a huge night,
-
-191
-00:06:20,779 --> 00:06:21,600
-even though she wasn't there.
-
-192
-00:06:21,819 --> 00:06:22,560
-Absolutely massive.
-
-193
-00:06:22,920 --> 00:06:25,300
-Artist of the Year, song of the year for Birds of a Feather,
-
-194
-00:06:25,560 --> 00:06:28,560
-favorite touring artist, pop female artist,
-
-195
-00:06:28,779 --> 00:06:31,079
-pop album for Hit Me Hard and Soft, pop song.
-
-196
-00:06:31,500 --> 00:06:33,139
-I mean, she swept quite a bit.
-
-197
-00:06:33,160 --> 00:06:34,779
-Really shows her fan connection, I guess,
-
-198
-00:06:34,899 --> 00:06:35,699
-since it's fan-voted.
-
-199
-00:06:35,839 --> 00:06:38,459
-Exactly, that's the whole point of the AMAs, supposedly.
-
-200
-00:06:38,459 --> 00:06:41,439
-But then Kendrick Lamar, who had the most nominations,
-
-201
-00:06:42,159 --> 00:06:43,379
-only won one award.
-
-202
-00:06:43,480 --> 00:06:44,000
-Just one.
-
-203
-00:06:44,459 --> 00:06:46,500
-Favorite hip-hop song for Not Like Us.
-
-204
-00:06:46,899 --> 00:06:49,699
-That's a pretty big gap between nominations and wins.
-
-205
-00:06:50,139 --> 00:06:50,660
-Yeah, definitely.
-
-206
-00:06:51,300 --> 00:06:51,360
-Definitely.
-
-207
-00:06:54,859 --> 00:06:57,819
-And the AMAs might be, well, out of touch.
-
-208
-00:06:57,980 --> 00:06:59,000
-Oh, who won that?
-
-209
-00:06:59,199 --> 00:06:59,620
-Eminem.
-
-210
-00:06:59,759 --> 00:07:00,980
-Eminem, over Kendrick.
-
-211
-00:07:01,339 --> 00:07:03,459
-And Drake, Future, Tyler the Creator,
-
-212
-00:07:03,620 --> 00:07:04,759
-were nominated, too.
-
-213
-00:07:04,939 --> 00:07:07,240
-Exactly, the reviews saw that as exhibit A
-
-214
-00:07:07,240 --> 00:07:09,819
-for why maybe the show isn't taken that seriously by everyone,
-
-215
-00:07:10,000 --> 00:07:10,740
-felt outdated.
-
-216
-00:07:11,139 --> 00:07:13,480
-They also thought Heidi Klum presenting it was a bit random.
-
-217
-00:07:13,860 --> 00:07:16,139
-Okay, that is surprising.
-
-218
-00:07:16,699 --> 00:07:17,220
-What about Country?
-
-219
-00:07:17,540 --> 00:07:18,680
-Post Malone did well there.
-
-220
-00:07:19,279 --> 00:07:21,060
-One favorite country song for the track
-
-221
-00:07:21,060 --> 00:07:22,680
-with Morgan Wallin, I had some help.
-
-222
-00:07:23,439 --> 00:07:25,240
-And favorite male country artist.
-
-223
-00:07:25,600 --> 00:07:28,759
-And Beyonce continued her country crossover success.
-
-224
-00:07:29,579 --> 00:07:31,360
-Favorite female country artist
-
-225
-00:07:31,360 --> 00:07:34,060
-and favorite country album for Cowboy Carter.
-
-226
-00:07:34,519 --> 00:07:36,279
-Makes sense, that album was everywhere.
-
-227
-00:07:36,279 --> 00:07:36,899
-For sure.
-
-228
-00:07:37,220 --> 00:07:38,300
-And there's that little moment,
-
-229
-00:07:38,680 --> 00:07:42,139
-Page Six caught Shibuzy presenting with Megan Moroney.
-
-230
-00:07:42,319 --> 00:07:43,420
-Yeah, what happened?
-
-231
-00:07:44,100 --> 00:07:47,100
-Apparently, when Moroney read the teleprompter line
-
-232
-00:07:47,100 --> 00:07:50,939
-about the Carter family basically inventing country music,
-
-233
-00:07:51,160 --> 00:07:53,980
-Shibuzy gave her this noticeable side-eye.
-
-234
-00:07:54,120 --> 00:07:54,600
-Oh, really?
-
-235
-00:07:54,720 --> 00:07:57,120
-Yeah, the review clarified she was just reading the script.
-
-236
-00:07:57,240 --> 00:07:58,339
-It wasn't her saying it.
-
-237
-00:07:58,639 --> 00:08:01,100
-But it kind of subtly highlighted the whole conversation
-
-238
-00:08:01,100 --> 00:08:02,839
-around the black roots of country music,
-
-239
-00:08:02,839 --> 00:08:04,579
-which Shibuzy is obviously part of,
-
-240
-00:08:04,699 --> 00:08:05,899
-just a small visual thing.
-
-241
-00:08:05,899 --> 00:08:06,420
-But interesting.
-
-242
-00:08:06,779 --> 00:08:08,000
-Yeah, those little moments can say a lot.
-
-243
-00:08:08,319 --> 00:08:09,100
-Who else won big?
-
-244
-00:08:09,560 --> 00:08:11,399
-Gracie Abrams got New Artist of the Year?
-
-245
-00:08:11,579 --> 00:08:12,720
-Yep, Gracie Abrams.
-
-246
-00:08:13,079 --> 00:08:15,959
-Lady Gaga and Bruno Mars won video and collaboration
-
-247
-00:08:15,959 --> 00:08:17,000
-for Die with a Smile.
-
-248
-00:08:17,540 --> 00:08:19,360
-Bruno also got Male Pop Artist.
-
-249
-00:08:19,779 --> 00:08:23,579
-SEA won Female R&B Artist and R&B Song for Saturn.
-
-250
-00:08:24,279 --> 00:08:27,560
-The Weekend took Male R&B Artist and R&B Album.
-
-251
-00:08:28,120 --> 00:08:31,839
-Latin went to Bad Bunny, Becky G and Shakira for Song.
-
-252
-00:08:32,039 --> 00:08:32,360
-Got it.
-
-253
-00:08:32,460 --> 00:08:34,799
-Megan Thee Stallion for Female Hip-Hop Artist.
-
-254
-00:08:35,419 --> 00:08:37,899
-Eminem also won Hip-Hop Album for his new one.
-
-255
-00:08:39,039 --> 00:08:41,399
-21 Pilots swept Rock Artist and Album.
-
-256
-00:08:41,679 --> 00:08:43,120
-Lincoln Park won Rock Song.
-
-257
-00:08:43,679 --> 00:08:45,480
-Lady Gaga again for Dance Electronic.
-
-258
-00:08:46,080 --> 00:08:49,419
-Even an award for a soundtrack arcane League of Legends.
-
-259
-00:08:49,740 --> 00:08:50,960
-Wow, okay, broad range.
-
-260
-00:08:51,240 --> 00:08:53,460
-Yeah, Tyler won Afro Beats, RM won K-Pop.
-
-261
-00:08:53,580 --> 00:08:55,100
-So lots of different fan bases represented.
-
-262
-00:08:55,559 --> 00:08:57,960
-But notably, Taylor Swift, zero wins
-
-263
-00:08:57,960 --> 00:08:58,899
-from her six nominations.
-
-264
-00:08:59,460 --> 00:09:00,659
-Yeah, that's the other big takeaway
-
-265
-00:09:00,659 --> 00:09:02,019
-from the winner's list, I guess.
-
-266
-00:09:02,159 --> 00:09:03,159
-No Swift wins this year.
-
-267
-00:09:03,240 --> 00:09:04,139
-Kind of surprising, right?
-
-268
-00:09:04,139 --> 00:09:06,779
-Maybe just tougher competition in her categories this year
-
-269
-00:09:06,779 --> 00:09:07,899
-or the fans voted differently.
-
-270
-00:09:08,320 --> 00:09:09,399
-So let's try and wrap this up.
-
-271
-00:09:09,480 --> 00:09:11,220
-What's the overall feeling from these sources?
-
-272
-00:09:11,460 --> 00:09:12,200
-What are the main takeaways?
-
-273
-00:09:12,899 --> 00:09:14,100
-Well, page six was pretty blunt.
-
-274
-00:09:14,240 --> 00:09:15,259
-They called it unmemorable.
-
-275
-00:09:15,500 --> 00:09:17,860
-And that AARP Music Awards comment.
-
-276
-00:09:18,039 --> 00:09:18,539
-Yeah, that stinks.
-
-277
-00:09:18,860 --> 00:09:21,299
-It definitely suggests they felt it skewed older,
-
-278
-00:09:21,460 --> 00:09:23,080
-focusing on legacy acts,
-
-279
-00:09:23,139 --> 00:09:24,960
-maybe because a lot of the current
-
-280
-00:09:24,960 --> 00:09:26,440
-big chart toppers weren't there.
-
-281
-00:09:26,700 --> 00:09:30,279
-And the move to Vegas, Memorial Day, CVS.
-
-282
-00:09:30,820 --> 00:09:32,039
-It doesn't seem like those changes
-
-283
-00:09:32,039 --> 00:09:33,700
-really brought in the A-list buzz.
-
-284
-00:09:33,700 --> 00:09:34,759
-They might have hoped for.
-
-285
-00:09:34,899 --> 00:09:36,559
-It doesn't seem like it, based on these reports.
-
-286
-00:09:37,039 --> 00:09:38,779
-The absences were just too noticeable.
-
-287
-00:09:38,980 --> 00:09:42,139
-It makes you question if these big traditional award shows
-
-288
-00:09:42,139 --> 00:09:44,279
-are maybe struggling a bit to stay relevant,
-
-289
-00:09:44,480 --> 00:09:46,440
-or at least relevant to the artists themselves.
-
-290
-00:09:46,799 --> 00:09:49,279
-So despite a few bright spots, JLo's opening,
-
-291
-00:09:50,200 --> 00:09:51,759
-Vincent Boone getting some praise.
-
-292
-00:09:51,919 --> 00:09:55,159
-The general vibe was a bit lackluster.
-
-293
-00:09:55,620 --> 00:09:58,440
-A show having trouble attracting the really big names.
-
-294
-00:09:58,639 --> 00:10:00,580
-That's certainly the picture painted here, yeah.
-
-295
-00:10:01,300 --> 00:10:03,320
-When so many nominees and even winners
-
-296
-00:10:03,320 --> 00:10:05,559
-like Billie Eilish aren't showing up,
-
-297
-00:10:05,700 --> 00:10:07,860
-it definitely sends a message, intended or not.
-
-298
-00:10:08,019 --> 00:10:09,639
-Right, it raises those bigger questions
-
-299
-00:10:09,639 --> 00:10:11,419
-about what these shows are even for anymore.
-
-300
-00:10:11,980 --> 00:10:13,279
-Especially in the streaming era
-
-301
-00:10:13,279 --> 00:10:15,440
-where artists have direct lines to fans.
-
-302
-00:10:15,720 --> 00:10:16,059
-Exactly.
-
-303
-00:10:16,580 --> 00:10:18,080
-So here's something to chew on then.
-
-304
-00:10:18,639 --> 00:10:21,080
-If so many top nominees and winners are skipping out,
-
-305
-00:10:21,600 --> 00:10:23,120
-what does that actually tell us
-
-306
-00:10:23,120 --> 00:10:24,559
-about Music Award shows right now?
-
-307
-00:10:24,940 --> 00:10:27,480
-Are they still reflecting what fans truly care about,
-
-308
-00:10:27,740 --> 00:10:29,379
-or who's really leading the industry?
-
-309
-00:10:29,379 --> 00:10:32,519
-Yeah, and is the whole fan-voted thing still working
-
-310
-00:10:32,519 --> 00:10:35,539
-if the artists it's supposed to celebrate
-
-311
-00:10:35,539 --> 00:10:37,860
-don't seem to prioritize being there?
-
-312
-00:10:38,179 --> 00:10:39,120
-It's a tough question.
-
-313
-00:10:39,820 --> 00:10:41,039
-Definitely something to think about.
-
-314
-00:10:41,340 --> 00:10:41,740
-For sure.
-
-315
-00:10:42,000 --> 00:10:43,519
-And hey, if you're curious to judge for yourself,
-
-316
-00:10:43,679 --> 00:10:46,139
-you can probably find clips of the performances online.
-
-317
-00:10:46,740 --> 00:10:48,600
-And the full winners list is out there too
-
-318
-00:10:48,600 --> 00:10:50,600
-if you want to dive deeper into who won what.
-
-319
-00:10:50,879 --> 00:10:51,279
-Good point.
-
-320
-00:10:51,980 --> 00:10:53,399
-Always worth forming your own opinion.
+00:14:22,059 --> 00:14:30,000
+techniques. It became a macabre symbol of criminal ingenuity and the Barbaras will to live.
 

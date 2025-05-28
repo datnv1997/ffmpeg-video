@@ -1,9 +1,10 @@
 #!/bin/bash
-ffmpeg -y -i main_audio.mp3 audio.wav
+MAIN_AUDIO=$(find audio_creepypasta -type f -iname "*.mp3" | head -n 1)
+ffmpeg -y -i "$MAIN_AUDIO" audio.wav
 echo "✅done convert to wav"
 
-# python transcribe.py
-# echo "✅done transcribe"
+python transcribe.py
+echo "✅done transcribe"
 
 # prepare audio
 ffmpeg -y -i audio.wav -i creepy_bg.mp3 -i creepy_bg2.mp3 -filter_complex "\
@@ -120,7 +121,7 @@ ffmpeg -y \
   -c:a aac -b:a 192k \
   -pix_fmt yuv420p \
   -shortest \
-  output_creepy_final.mp4
+  video_output/$(date "+%Y%m%d_%H%M%S").mp4
 
 
 

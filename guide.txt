@@ -1,0 +1,54 @@
+whisper your_audio_file.mp3 --language en --model turbo --output_format srt --output_dir ./subtitles/  --word_timestamps True  --max_line_width 40 --max_line_count 2  --max_words_per_line 6 
+
+
+ffmpeg -i intro.mp4 -i output.mp4 \
+-filter_complex "[0:v:0][0:a:0][1:v:0][1:a:0]concat=n=2:v=1:a=1[outv][outa]" \
+-map "[outv]" -map "[outa]" \
+-r 30 -s 1920x1080 -b:v 4000k -c:v libx264 -c:a aac -b:a 192k \
+final_video.mp4
+
+ffmpeg -y -i final_video.mp4 -ignore_loop 0 -i podcast.gif \
+-filter_complex "[0:v][1:v]overlay=W-w-20:20:shortest=1" \
+-pix_fmt yuv420p -c:a copy output.mp4
+
+
+ffmpeg -y \
+-i intro.mp4 \
+-i output.mp4 \
+-i subtitles/audio.srt \
+-ignore_loop 0 -i podcast.gif \
+-filter_complex "
+[1:v]subtitles=subtitles/audio.srt[vidsub]; \
+[vidsub][3:v]overlay=W-w-20:20:shortest=1[filtered]; \
+[0:v:0][0:a:0][filtered][1:a:0]concat=n=2:v=1:a=1[outv][outa]
+" \
+-map "[outv]" -map "[outa]" \
+-r 30 -s 1920x1080 -b:v 4000k -c:v libx264 -c:a aac -b:a 192k \
+-pix_fmt yuv420p \
+final_video.mp4
+
+
+
+ffmpeg -y -i main_audio.mp3 -i creepy_bg.mp3 -i creepy_bg2.mp3 -filter_complex "\
+[1:a][2:a]concat=n=2:v=0:a=1[bg]; \
+[0:a]volume=2[a0]; \
+[bg]aloop=loop=-1:size=2e+09[a1]; \
+[a1]volume=0.5[a1quiet]; \
+[a0][a1quiet]amix=inputs=2:duration=first:dropout_transition=3[aout]" \
+-map "[aout]" -shortest output.mp3
+
+ffmpeg -y \
+  -i "creepy_video/walk1.mp4" \
+  -i "creepy_video/walk3.mp4" \
+  -i "creepy_video/walk4.mp4" \
+  -i "creepy_video/walk6.mp4" \
+  -i "creepy_video/outhouse.mp4" \
+  -i "creepy_video/creep1.mp4" \
+  -i "creepy_video/open_door.mp4" \
+  -i "creepy_video/candle.mp4" \
+  -filter_complex "[0:v:0][1:v:0][2:v:0][3:v:0][4:v:0][5:v:0][6:v:0][7:v:0]concat=n=8:v=1:a=0[outv]" \
+  -map "[outv]"\
+  -crf 23 -preset ultrafast -r 30 -s 1920x1080 \
+  -c:v libx264 -threads 0 -c:a aac -b:a 192k \
+  -pix_fmt yuv420p \
+  "creepy_video/combined.mp4"

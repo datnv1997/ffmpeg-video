@@ -1,456 +1,2528 @@
 1
-00:00:00,000 --> 00:00:06,639
-There are few scenarios more terrifying than being buried alive. It's the stuff of nightmares,
+00:00:00,000 --> 00:00:04,500
+Welcome to the Deep Dive, where we take your sources and extract the essential insights.
 
 2
-00:00:07,099 --> 00:00:15,439
-horror films, and Gothic fiction. But in December 1968, for one young woman from Florida,
+00:00:04,980 --> 00:00:08,740
+We act as your guides, navigating the information and finding those surprising
 
 3
-00:00:15,900 --> 00:00:23,640
-that fear became a grueling and all-terreal experience. Barbara Jane Mackle, a 20-year-old
+00:00:08,740 --> 00:00:11,599
+facts and critical connections you might otherwise miss.
 
 4
-00:00:23,640 --> 00:00:31,079
-university student and heiress to a multi-million dollar fortune, was kidnapped at gunpoint and
+00:00:12,400 --> 00:00:16,320
+Today's Deep Dive is based on a really candid conversation you shared with us,
 
 5
-00:00:31,079 --> 00:00:38,799
-left in a purpose-built box beneath the Georgia Soul. Remarkably, she survived her story,
+00:00:16,780 --> 00:00:21,239
+excerpts from Katherine Pays' recent long-form interview on the Call Her Daddy YouTube channel.
 
 6
-00:00:39,200 --> 00:00:45,259
-one of calm resilience under unthinkable circumstances, remains one of the most bizarre
+00:00:21,500 --> 00:00:25,420
+Yeah, the source gives a pretty unique look behind the scenes of, well,
 
 7
-00:00:45,259 --> 00:00:52,939
-and chilling kidnappings in American criminal history. A heiress in peril, Barbara Mackle was,
+00:00:25,719 --> 00:00:29,219
+one of the most talked-about family vlogging channels, the Ace Family.
 
 8
-00:00:52,939 --> 00:00:59,899
-by all accounts, living a comfortable and privileged life. The daughter of Robert Mackle,
+00:00:29,219 --> 00:00:33,899
+It really digs into its rise and eventual dissolution.
 
 9
-00:01:00,359 --> 00:01:07,439
-a prominent Florida property developer and head of Deltona Corporation, Barbara had wealth,
+00:00:34,399 --> 00:00:38,500
+Right. Our mission today is to unpack the key points Katherine shared in this discussion,
 
 10
-00:01:08,099 --> 00:01:14,560
-status, and a promising future. The Mackle family were closed to political power, too.
+00:00:39,079 --> 00:00:43,179
+finally shedding some light on some of the big questions that have surrounded them for so long.
 
 11
-00:01:15,280 --> 00:01:23,480
-Family friends included Senator George Smathers and even President-elect Richard Nixon. Barbara
+00:00:43,659 --> 00:00:46,299
+You know, the relationship, their finances, all those controversies.
 
 12
-00:01:23,480 --> 00:01:30,579
-was studying at Emory University in Atlanta when the Hong Kong flu swept through campus in
+00:00:46,539 --> 00:00:50,079
+We're going to peel back the curtain on the rapid climb to fame and the very
 
 13
-00:01:30,579 --> 00:01:39,959
-December 1968, feeling increasingly unwell. She left an exam early and called her mother Jane
+00:00:50,079 --> 00:00:53,280
+personal struggles Katherine describes unfolding behind the scenes.
 
 14
-00:01:39,959 --> 00:01:45,900
-to collect her so she could return home to Coral Gables for the Christmas break.
+00:00:53,539 --> 00:00:54,920
+It's quite a journey she lays out.
 
 15
-00:01:46,480 --> 00:01:55,359
-They checked into room 137 at a nearby motel, the roadway inn. Planning to leave for Florida
+00:00:54,920 --> 00:00:57,659
+Okay, let's unpack this. Katherine starts by sharing some
 
 16
-00:01:55,359 --> 00:02:02,920
-the next day, the 4 a.m. knock. What happened in the early hours of the 17th of December reads
+00:00:58,239 --> 00:01:03,439
+deeply personal details about her background. It really lays the foundation for who she became.
 
 17
-00:02:02,920 --> 00:02:09,060
-like the beginning of a crime thriller. At around 4 a.m. there was a knock at the door,
+00:01:03,880 --> 00:01:07,980
+Yeah, she talks about her parents, immigrants from Nicaragua and Panama.
 
 18
-00:02:09,060 --> 00:02:15,680
-a man claiming to be a detective said there had been a traffic accident involving a white Ford.
+00:01:08,219 --> 00:01:11,480
+They met as teenagers, faced significant hardship.
 
 19
-00:02:16,479 --> 00:02:21,800
-The same type of car driven by Barbara's boyfriend, Stuart Woodward,
+00:01:12,040 --> 00:01:15,879
+She actually describes their relationship dynamic as quite toxic.
 
 20
-00:02:22,060 --> 00:02:27,659
-who had visited them earlier that evening, alarm, Jane opened the door.
+00:01:16,219 --> 00:01:19,219
+And what's striking is how she mentions her father being
 
 21
-00:02:28,180 --> 00:02:34,400
-Instead of a detective, two masked individuals forced their way inside.
+00:01:19,219 --> 00:01:21,560
+a single dad for the first part of her childhood.
 
 22
-00:02:35,120 --> 00:02:42,840
-One was tall and carried a shotgun. The other, shorter and slighter, appeared to be a teenage
+00:01:21,560 --> 00:01:26,299
+Exactly. And her mother making that really tough call to move to Florida,
 
 23
-00:02:42,840 --> 00:02:51,439
-ball, later revealed to be a woman in disguise. The taller intruder, Gary Stephen Christ,
+00:01:26,540 --> 00:01:28,579
+believing it was for the family's best interests.
 
 24
-00:02:51,879 --> 00:02:57,759
-used chloroform to subdue Jane while the accomplice, Ruth Iceman Shear,
+00:01:29,420 --> 00:01:33,719
+Katherine said even as a kid, she sort of understood her mom was doing the right thing.
 
 25
-00:02:57,759 --> 00:03:05,400
-bound her hands and feet. Barbara was taken at gunpoint and forced into their waiting car.
+00:01:34,000 --> 00:01:38,000
+And this early environment really shaped her perspective, especially around money.
 
 26
-00:03:06,039 --> 00:03:14,620
-Jane Mackle regained consciousness quickly and alerted the police. But by then Barbara was being
+00:01:38,159 --> 00:01:40,379
+She mentions here, and we don't have the money for that a lot.
 
 27
-00:03:14,620 --> 00:03:22,580
-transported north away from Atlanta and into the Georgia countryside. A box beneath the earth,
+00:01:40,540 --> 00:01:43,920
+Right. It created this powerful drive in her even from a young age.
 
 28
-00:03:22,580 --> 00:03:29,039
-the kidnappers drove Barbara to a secluded pine grove in Gwinnett County, Georgia,
+00:01:44,200 --> 00:01:48,799
+She wanted to make a lot of money specifically to support her family, give them a distant life.
 
 29
-00:03:29,400 --> 00:03:35,759
-where they had prepared a coffin-like box to imprison her. It was no ordinary box.
+00:01:48,799 --> 00:01:52,700
+That financial stress, plus seeing her parents' difficult marriage.
 
 30
-00:03:36,400 --> 00:03:43,219
-It had been reinforced with fiberglass and fitted with air pipes to battery power lamp,
+00:01:53,680 --> 00:01:56,000
+How did that affect her view on relationships?
 
 31
-00:03:43,400 --> 00:03:51,479
-a supply of water laced with sedatives and food. It even included a fan to circulate air,
+00:01:56,379 --> 00:02:00,079
+Well, she says it profoundly impacted her. It led her to really desire this
 
 32
-00:03:51,479 --> 00:03:59,560
-the attention to detail was chilling. Barbara was sedated and locked inside before Christ,
+00:02:00,700 --> 00:02:03,359
+traditional till death, do us part kind of marriage.
 
 33
-00:03:59,860 --> 00:04:06,879
-and Iceman Shear buried the box beneath 45 centimeters around a foot and a half of earth.
+00:02:03,840 --> 00:02:07,780
+She desperately wanted her own kids to grow up with both parents there,
 
 34
-00:04:07,219 --> 00:04:14,860
-Inside she found this message. Do not be alarmed. You are safe. You are presently inside a
+00:02:08,060 --> 00:02:10,159
+that stability she felt she missed out on.
 
 35
-00:04:14,860 --> 00:04:21,120
-fiberglass reinforced plywood capsule buried beneath the ground near the house in which
+00:02:10,500 --> 00:02:13,159
+Okay, so with that background, she moves to LA.
 
 36
-00:04:21,120 --> 00:04:27,160
-your kidnappers are staying. Your status will be checked approximately every two hours.
+00:02:13,780 --> 00:02:15,780
+And that's where Austin McBroom comes into the picture.
 
 37
-00:04:27,759 --> 00:04:34,620
-The capsule is quite strong. You will not be able to break it open. Be advised, however,
+00:02:15,780 --> 00:02:19,740
+Yep, met him at an all white party, very LA, as you said.
 
 38
-00:04:35,180 --> 00:04:41,319
-that you are beneath the water table. If you break open a scene you would drown before we could
+00:02:20,120 --> 00:02:23,379
+He messaged her later. She thinks it was Twitter or something like that.
 
 39
-00:04:41,319 --> 00:04:47,279
-dig you out, the capsule instrumentation contains a water sensitive switch which will
+00:02:23,780 --> 00:02:26,219
+And she describes his feeling she had almost immediately.
 
 40
-00:04:47,279 --> 00:04:54,620
-warn us if the water enters the capsule to a dangerous degree. Your life depends on the air
+00:02:26,639 --> 00:02:29,960
+A really significant inner knowing, she called it.
 
 41
-00:04:54,620 --> 00:05:01,759
-delivered to your chamber via the ventilation fan. This fan is powered by elite acid storage
+00:02:30,060 --> 00:02:33,900
+The moment she met him, even on their first date, she felt this certainty.
 
 42
-00:05:01,759 --> 00:05:10,300
-battery capable of supplying the fan motor with power for 270 hours. However, the use of the
+00:02:34,539 --> 00:02:37,099
+She was going to marry him, have kids with him.
 
 43
-00:05:10,300 --> 00:05:17,060
-light and other systems for only a few hours coupled with the higher amperage drain will reduce
+00:02:37,180 --> 00:02:38,719
+Wow, on the first date, that's fantastic.
 
 44
-00:05:17,060 --> 00:05:23,500
-this figure to only one week of safety. Should the air supplied prove to be too much,
+00:02:38,719 --> 00:02:41,919
+And credibly fast first kiss saying, I love you, same day.
 
 45
-00:05:23,660 --> 00:05:29,860
-you can partly block the air outlet with a piece of paper. A muffler has been placed in the air
+00:02:42,340 --> 00:02:44,159
+But she said she wasn't nervous about it at all.
 
 46
-00:05:29,860 --> 00:05:36,680
-passage to prevent any noise you make from reaching the surface. If we detect any
+00:02:44,159 --> 00:02:46,360
+It just felt meant to be.
 
 47
-00:05:36,680 --> 00:05:43,800
-commotion which we feel is dangerous, we will introduce ether to the air intake and put you to
+00:02:46,639 --> 00:02:48,939
+Like they could skip the whole dating phase because they just knew.
 
 48
-00:05:43,800 --> 00:05:51,519
-sleep. The fan operates on six volts. IT has a switch with two positions to switch between the
+00:02:49,300 --> 00:02:51,240
+What was it about him that drew her in?
 
 49
-00:05:51,519 --> 00:05:58,279
-two available circuits. Should one circuit fail, turn to the other. The box has a pump which
+00:02:51,580 --> 00:02:53,319
+She liked his confidence, apparently.
 
 50
-00:05:58,279 --> 00:06:05,420
-will evacuate any accidental leakage from the box when you turn the pump switch on to the
+00:02:53,879 --> 00:02:55,979
+That he didn't seem to care what other people thought.
 
 51
-00:06:05,420 --> 00:06:15,959
-on position. This pump uses 15 times as much power as your ventilation fan 7.5 amps. Your life support
+00:02:56,500 --> 00:03:01,259
+And she saw him as motivated, very free with himself.
 
 52
-00:06:15,959 --> 00:06:24,220
-battery will not allow use of the pump except for emergency water evacuation. The light uses two
+00:03:01,659 --> 00:03:02,919
+Said it reminded her of her brother.
 
 53
-00:06:24,220 --> 00:06:31,560
-five times the average of the air circulation system. Use of the light when not necessary
+00:03:03,180 --> 00:03:05,460
+And the speed didn't slow down, pregnant pretty quickly.
 
 54
-00:06:31,560 --> 00:06:37,600
-will cut your battery safety margins substantially. If you use the light continuously,
+00:03:05,680 --> 00:03:07,020
+About two months in, yeah.
 
 55
-00:06:38,360 --> 00:06:45,079
-your life expectancy will be cut to one third of the week. You have allotted you before you are
+00:03:07,340 --> 00:03:09,580
+And the way she told him, memorable.
 
 56
-00:06:45,079 --> 00:06:51,680
-released. Your capsule contains a water jug with three gallons of water and a tube from
+00:03:10,080 --> 00:03:11,659
+Through the positive pregnancy test,
 
 57
-00:06:51,680 --> 00:06:57,360
-which to drink IT. Be careful to blow the water from the tube when you are finished
+00:03:11,780 --> 00:03:13,099
+stick at him while he was on the bed.
 
 58
-00:06:57,360 --> 00:07:04,720
-drinking to avoid siphoning the water onto the floor when the tube end drops below the water level.
+00:03:13,099 --> 00:03:14,919
+Oh, okay.
 
 59
-00:07:05,000 --> 00:07:11,920
-Your capsule contains a bucket for refuse and the products of your bowel movements. The bucket
+00:03:15,400 --> 00:03:18,699
+And the Ace Family Channel itself, how did that start?
 
 60
-00:07:11,920 --> 00:07:20,339
-has an antibacterial solution in IT. Don't tip IT over. The lid seals tightly to prevent
+00:03:18,819 --> 00:03:19,939
+It wasn't some master plan.
 
 61
-00:07:20,339 --> 00:07:28,720
-the escape of odors. A roll of wax paper is provided. Use it to prevent solid waste from
+00:03:20,139 --> 00:03:20,699
+No, not at all.
 
 62
-00:07:28,720 --> 00:07:37,540
-contaminating your bed. Kotex is provided should you need IT. Lancettes and a mat are provided.
+00:03:20,780 --> 00:03:22,919
+It was actually Austin's friend who suggested it.
 
 63
-00:07:37,980 --> 00:07:44,699
-Your warmth depends on body heat so regulate the air to prevent loss of heat from the capsule.
+00:03:23,120 --> 00:03:25,020
+They had posted some homemade videos online.
 
 64
-00:07:45,259 --> 00:07:53,220
-A case of candy is provided to furnish energy to your body. Tranquilizers are provided to aid you
+00:03:25,180 --> 00:03:27,000
+They went viral on Facebook and the friend was like,
 
 65
-00:07:53,220 --> 00:08:00,959
-in sleeping. The best way you have to pass the time. The ventilation system is doubly screened
+00:03:27,039 --> 00:03:29,419
+hey, you could actually make money from this.
 
 66
-00:08:00,959 --> 00:08:07,819
-to prevent insects or animals from entering the capsule area. You risk being eaten by ants
+00:03:29,599 --> 00:03:31,280
+And the timing was interesting too, right?
 
 67
-00:08:07,819 --> 00:08:14,399
-should you break these protection screens. The electrical components behind these screens
+00:03:31,520 --> 00:03:32,919
+With Austin's basketball career.
 
 68
-00:08:14,399 --> 00:08:21,699
-are delicate and they support your life. Don't attempt to touch these circuits. We're sure your
+00:03:33,199 --> 00:03:34,960
+Yeah, perfect timing in a way.
 
 69
-00:08:21,699 --> 00:08:29,100
-father will pay the ransom we have asked and last in one week. When your father pays the ransom
+00:03:35,340 --> 00:03:38,180
+His NBA dreams had sort of fizzled out that summer.
 
 70
-00:08:29,100 --> 00:08:35,740
-we will tell him where you are and he'll come for you. Should he fail to pay we will release you.
+00:03:38,900 --> 00:03:40,659
+Basketball wasn't a clear path anymore.
 
 71
-00:08:36,299 --> 00:08:41,940
-So be calm and rest. You'll be home for Christmas one way or the other.
+00:03:40,659 --> 00:03:44,259
+So starting YouTube suddenly looked like a viable alternative.
 
 72
-00:08:42,500 --> 00:08:50,059
-She remained buried alive for more than 80 hours. Barbara later wrote about her ordeal in her memoir
+00:03:44,840 --> 00:03:49,560
+So their first daughter, Elle, is born and putting her online.
 
 73
-00:08:50,059 --> 00:08:58,799
-83 hours till dawn where she described the moment the box was sealed and the dirt began to pile up.
+00:03:51,060 --> 00:03:52,340
+How did they decide that?
 
 74
-00:08:59,200 --> 00:09:06,820
-I screamed and screamed the sound of the dirt got farther and farther away. Finally I couldn't
+00:03:52,599 --> 00:03:53,879
+Catherine says it just felt natural.
 
 75
-00:09:06,820 --> 00:09:14,940
-hear anything above. I screamed for a long time after that with no way to track the passage of time.
+00:03:54,139 --> 00:03:55,979
+Their initial intentions, she insists,
 
 76
-00:09:15,220 --> 00:09:21,679
-She survived by focusing on the image of spending Christmas morning with her family, the ransom
+00:03:56,419 --> 00:03:57,939
+were pure just sharing their journey
 
 77
-00:09:22,180 --> 00:09:32,019
-and FBI manhunt. Barbara's father, Robert Mackle, received a ransom demand for $500, zero.
+00:03:57,939 --> 00:03:59,520
+as this young family starting out.
 
 78
-00:09:32,019 --> 00:09:40,299
-The equivalent of around for $0.3 million in today's money. He agreed without hesitation
+00:03:59,659 --> 00:04:01,860
+No hesitation about putting the kids online back then.
 
 79
-00:09:40,299 --> 00:09:47,139
-a first attempt had a ransom drop fail when two policemen happened to drive by causing the
+00:04:01,919 --> 00:04:02,740
+Initially, no.
 
 80
-00:09:47,139 --> 00:09:54,659
-kidnappers to flee, abandoning their car in the process. Inside that car were several crucial
+00:04:02,939 --> 00:04:04,800
+She felt like they were almost pioneering
 
 81
-00:09:54,659 --> 00:10:03,139
-clues, photographs, chloroform and documents pointing to a man named George D. Deacon who
+00:04:04,800 --> 00:04:06,120
+that kind of family vlogging,
 
 82
-00:10:03,139 --> 00:10:10,139
-worked at the University of Miami's Marine Science Department. He had experience constructing
+00:04:06,259 --> 00:04:09,919
+especially as social media was becoming this monster,
 
 83
-00:10:10,139 --> 00:10:18,580
-ventilated boxes which raised red flags with the FBI. Further investigation revealed that
+00:04:09,919 --> 00:04:10,819
+as she put it.
 
 84
-00:10:18,580 --> 00:10:27,240
-Deacon didn't exist. He was an alias being used by Gary Stephen Christ, a 23-year-old who had
+00:04:11,099 --> 00:04:14,620
+But then came the criticism, the accusations of exploiting the kids.
 
 85
-00:10:27,240 --> 00:10:35,039
-escaped from a California prison in 1966. The ransom was successfully delivered on the second
+00:04:15,060 --> 00:04:15,280
+Right.
 
 86
-00:10:35,039 --> 00:10:44,179
-attempt. Soon after, Christ made a call to the FBI giving vague directions to Barbara's location.
+00:04:15,439 --> 00:04:16,639
+And she addresses that directly.
 
 87
-00:10:44,179 --> 00:10:51,639
-More than 100 FBI agents descended on the pine forest near Lawrenceville, Georgia.
+00:04:17,160 --> 00:04:18,879
+She maintains their initial intentions
 
 88
-00:10:52,259 --> 00:11:00,799
-Using only the cryptic clues provided, they scoured the area with shovels, tools and their bare hands.
+00:04:18,879 --> 00:04:21,959
+were good in making a living while being present parents.
 
 89
-00:11:01,139 --> 00:11:07,259
-Finally, on the 20th of December, after three and a half days underground,
+00:04:22,579 --> 00:04:23,759
+And it's fascinating, she points out
 
 90
-00:11:07,259 --> 00:11:15,980
-Barbara was found alive. She was dehydrated but in surprisingly good condition. Her ability to
+00:04:23,759 --> 00:04:26,779
+their most popular videos early on weren't the big stunts,
 
 91
-00:11:15,980 --> 00:11:24,940
-remain calm and mentally focused was later described as extraordinary. After math and arrests, Barbara
+00:04:26,819 --> 00:04:28,600
+but just simple family moments,
 
 92
-00:11:24,940 --> 00:11:32,580
-was taken home to Florida where she celebrated Christmas with her family just as she had in
+00:04:28,860 --> 00:04:30,180
+like them sitting on the floor.
 
 93
-00:11:32,580 --> 00:11:40,039
-vision while trapped underground. Publicly, she seemed to recover well, though she made
+00:04:30,339 --> 00:04:30,899
+That's interesting.
 
 94
-00:11:40,039 --> 00:11:47,740
-few appearances in the media in the years following. Meanwhile, the FBI intensified their
+00:04:31,259 --> 00:04:33,300
+And do they handle the kids' earnings responsibly?
 
 95
-00:11:47,740 --> 00:11:55,060
-search for the kidnappers. Christ was captured just days later. Sailing a speedboat off the
+00:04:33,600 --> 00:04:35,660
+She confirms they set up separate bank accounts
 
 96
-00:11:55,200 --> 00:12:03,299
-coast of Florida, bought using part of the ransom money, Iceman Shear was caught months later in
+00:04:35,660 --> 00:04:37,879
+for the children very early, around 2017.
 
 97
-00:12:03,299 --> 00:12:10,480
-Oklahoma after her fingerprints matched those on file when she applied for a job at a hospital.
+00:04:38,519 --> 00:04:40,139
+Elle was only about a year old then.
 
 98
-00:12:11,139 --> 00:12:19,720
-Christ was sentenced to life in prison in 1969 that served only 10 years before being paroled
+00:04:40,420 --> 00:04:42,759
+And looking back now, her perspective
 
 99
-00:12:19,720 --> 00:12:27,259
-in an astonishing twist. He later received a pardon that allowed him to attend medical school.
+00:04:42,759 --> 00:04:44,199
+on sharing kids online.
 
 100
-00:12:27,820 --> 00:12:35,460
-He became a licensed physician in Indiana. Both this to ended in scandal. His medical license
+00:04:44,579 --> 00:04:45,360
+It's pretty nuanced.
 
 101
-00:12:35,460 --> 00:12:43,039
-was revoked in 2003 after it emerged. He had lied about disciplinary actions during his
+00:04:45,560 --> 00:04:47,540
+She doesn't think there's a definite right or wrong.
 
 102
-00:12:43,039 --> 00:12:52,379
-residency. Christ's post-prison career continued to raise eyebrows. In 2006, he was arrested aboard
+00:04:47,680 --> 00:04:49,560
+Ultimately, she feels everything happens
 
 103
-00:12:52,379 --> 00:13:00,659
-a sailboat off the coast of Alabama with 14 kilograms of cocaine and several undocumented
+00:04:49,560 --> 00:04:50,660
+the way it's meant to.
 
 104
-00:13:00,659 --> 00:13:09,679
-immigrants. He was sentenced to over five years in prison then in 2012. He violated the terms
+00:04:51,160 --> 00:04:52,720
+Kind of a fatalistic view, maybe.
 
 105
-00:13:09,679 --> 00:13:18,299
-of his probation by leaving the United States without permission sailing to Cuba and South America.
+00:04:53,060 --> 00:04:54,879
+Okay, let's shift to the financial side
 
 106
-00:13:18,639 --> 00:13:25,860
-His supervised release was revoked and he was sentenced to a further 40 months as for Ruth
+00:04:54,879 --> 00:04:55,939
+of this massive success.
 
 107
-00:13:25,860 --> 00:13:32,860
-Iceman Shear. She was sentenced to seven years in prison but was paroled after for a
+00:04:56,459 --> 00:04:57,759
+They were making serious money.
 
 108
-00:13:32,860 --> 00:13:40,919
-deport to her native Honduras. She remains the first woman ever to appear on the FBI's most
+00:04:58,160 --> 00:04:59,740
+Serious is an understatement.
 
 109
-00:13:40,919 --> 00:13:48,580
-wanted list. A quiet life after trauma, Barbara Mackle rarely spoke publicly about the kidnapping
+00:04:59,959 --> 00:05:01,360
+She reveals at their peak,
 
 110
-00:13:48,580 --> 00:13:58,460
-after her book was released in 1971. She moved back to Atlanta, married and raised a family.
+00:05:01,560 --> 00:05:03,379
+they were pulling in seven figures.
 
 111
-00:13:58,460 --> 00:14:06,759
-Those who knew her described her as remarkably composed and private. A young woman who had endured
+00:05:04,160 --> 00:05:04,560
+A month.
 
 112
-00:14:06,759 --> 00:14:14,720
-one of the most harrowing experiences imaginable and moved forward without fanfare. The box she
+00:05:04,839 --> 00:05:05,319
+A month.
 
 113
-00:14:14,720 --> 00:14:22,059
-was buried and was later displayed by the FBI at lectures on criminal psychology and kidnapping
+00:05:05,519 --> 00:05:05,720
+Wow.
 
 114
-00:14:22,059 --> 00:14:30,000
-techniques. It became a macabre symbol of criminal ingenuity and the Barbaras will to live.
+00:05:05,720 --> 00:05:07,779
+How did she even process that?
+
+115
+00:05:08,000 --> 00:05:09,240
+That's, I think she says she felt numb,
+
+116
+00:05:09,420 --> 00:05:10,699
+sort of disattached from it,
+
+117
+00:05:10,699 --> 00:05:11,759
+like it wasn't quite real.
+
+118
+00:05:12,300 --> 00:05:13,319
+And looking back now,
+
+119
+00:05:13,399 --> 00:05:14,699
+she expresses a lot of regret.
+
+120
+00:05:15,100 --> 00:05:17,579
+Bad business decisions, having yes men around.
+
+121
+00:05:18,040 --> 00:05:19,540
+Wishing she'd invested differently.
+
+122
+00:05:20,040 --> 00:05:21,040
+Helped your parents more.
+
+123
+00:05:21,240 --> 00:05:21,620
+Exactly.
+
+124
+00:05:22,259 --> 00:05:25,279
+It really highlights how getting that huge financial goal
+
+125
+00:05:25,279 --> 00:05:27,399
+didn't automatically equal happiness,
+
+126
+00:05:27,600 --> 00:05:29,180
+especially when it came from something
+
+127
+00:05:29,180 --> 00:05:31,040
+with so much pressure attached.
+
+128
+00:05:31,420 --> 00:05:33,720
+And that pressure changed how they approached content, right?
+
+129
+00:05:33,899 --> 00:05:34,220
+Definitely.
+
+130
+00:05:34,220 --> 00:05:38,100
+She describes this shift from filming parts of their life
+
+131
+00:05:38,100 --> 00:05:40,259
+to feeling like they were living to film.
+
+132
+00:05:40,540 --> 00:05:42,740
+Everything became about the next big reveal,
+
+133
+00:05:43,100 --> 00:05:44,160
+the clickbait surprise.
+
+134
+00:05:44,639 --> 00:05:46,540
+She used the phrase clown in a circus.
+
+135
+00:05:46,779 --> 00:05:48,319
+Yeah, feeling like she had to perform
+
+136
+00:05:48,319 --> 00:05:49,980
+these surprise reactions for the camera,
+
+137
+00:05:50,180 --> 00:05:52,579
+rather than just genuinely experiencing moments together.
+
+138
+00:05:52,980 --> 00:05:55,259
+Was there a specific moment she realized
+
+139
+00:05:55,980 --> 00:05:57,680
+how much strain this was causing?
+
+140
+00:05:58,000 --> 00:05:59,800
+She talks about her second daughter's birth,
+
+141
+00:06:00,079 --> 00:06:00,800
+feeling disconnected,
+
+142
+00:06:01,439 --> 00:06:02,740
+not really wanting to film it,
+
+143
+00:06:02,800 --> 00:06:03,959
+but feeling this obligation
+
+144
+00:06:03,959 --> 00:06:05,240
+because the audience was waiting.
+
+145
+00:06:05,779 --> 00:06:08,139
+It even made her question if Austin was truly present
+
+146
+00:06:08,139 --> 00:06:09,980
+or just focused on getting the shot.
+
+147
+00:06:10,160 --> 00:06:11,639
+And that bled into other things.
+
+148
+00:06:11,800 --> 00:06:11,920
+Yeah.
+
+149
+00:06:12,120 --> 00:06:15,000
+Like wondering if his romantic gestures were real
+
+150
+00:06:15,000 --> 00:06:16,360
+or just for show.
+
+151
+00:06:17,360 --> 00:06:19,639
+Were they genuine or for the camera?
+
+152
+00:06:20,079 --> 00:06:21,399
+And then feeling she had to give
+
+153
+00:06:21,399 --> 00:06:23,560
+this big theatrical reaction back.
+
+154
+00:06:23,860 --> 00:06:25,839
+She admits they just didn't communicate
+
+155
+00:06:25,839 --> 00:06:28,240
+about boundaries, about what should stay private.
+
+156
+00:06:28,720 --> 00:06:31,660
+This lack of partnership seems to have extended to money, too.
+
+157
+00:06:31,899 --> 00:06:33,160
+According to her, yes.
+
+158
+00:06:33,720 --> 00:06:34,259
+Big time.
+
+159
+00:06:34,759 --> 00:06:37,800
+She describes Austin making huge financial decisions,
+
+160
+00:06:38,160 --> 00:06:40,220
+six figures sometimes disappearing from accounts
+
+161
+00:06:40,220 --> 00:06:41,699
+without even talking to her about it.
+
+162
+00:06:42,000 --> 00:06:43,300
+Like what kind of decisions?
+
+163
+00:06:43,639 --> 00:06:45,819
+Paying for private jets, things like that,
+
+164
+00:06:46,040 --> 00:06:48,139
+stuff she says she wouldn't have chosen herself,
+
+165
+00:06:48,560 --> 00:06:50,959
+things that weren't priorities for her before him.
+
+166
+00:06:51,100 --> 00:06:52,339
+That must have caused a lot of tension.
+
+167
+00:06:52,779 --> 00:06:53,800
+She says it was heartbreaking.
+
+168
+00:06:54,180 --> 00:06:56,199
+It caused immense stress in the relationship.
+
+169
+00:06:56,899 --> 00:06:58,399
+How did he react when she brought it up?
+
+170
+00:06:58,680 --> 00:07:00,319
+Apparently often dismissive,
+
+171
+00:07:00,500 --> 00:07:02,040
+like, I'm sorry, I just didn't want you to worry.
+
+172
+00:07:02,760 --> 00:07:06,040
+But for her, marriage meant tackling these big issues together,
+
+173
+00:07:06,220 --> 00:07:07,699
+things affecting their kids, their future.
+
+174
+00:07:08,240 --> 00:07:09,819
+It wasn't just about shielding her.
+
+175
+00:07:10,060 --> 00:07:11,720
+Which brings us to the house foreclosure.
+
+176
+00:07:12,379 --> 00:07:14,300
+Very public, very symbolic.
+
+177
+00:07:14,639 --> 00:07:16,740
+Yeah, by then she felt like she was losing control
+
+178
+00:07:16,740 --> 00:07:19,379
+over everything, family, relationship, career.
+
+179
+00:07:20,160 --> 00:07:22,399
+The house was the one thing she was desperately trying
+
+180
+00:07:22,399 --> 00:07:23,959
+to hold onto as something stable.
+
+181
+00:07:24,199 --> 00:07:24,980
+And she found out.
+
+182
+00:07:25,579 --> 00:07:25,899
+How?
+
+183
+00:07:26,240 --> 00:07:27,500
+Completely out of the blue.
+
+184
+00:07:28,199 --> 00:07:29,459
+Her father-in-law called her,
+
+185
+00:07:29,459 --> 00:07:31,959
+Catherine, the house is under foreclosure.
+
+186
+00:07:32,199 --> 00:07:33,160
+It's all over the news.
+
+187
+00:07:33,720 --> 00:07:34,699
+Just like that.
+
+188
+00:07:34,899 --> 00:07:36,339
+But she thought she was paying the mortgage.
+
+189
+00:07:37,019 --> 00:07:40,060
+She said she was paying it every month for three years.
+
+190
+00:07:40,379 --> 00:07:41,540
+She was totally confused.
+
+191
+00:07:42,139 --> 00:07:43,480
+The reasons given were technical.
+
+192
+00:07:44,180 --> 00:07:45,220
+The loan type ended.
+
+193
+00:07:45,720 --> 00:07:48,540
+It was a jumbo loan, no certificate of occupancy.
+
+194
+00:07:49,280 --> 00:07:50,800
+But it didn't make sense to her.
+
+195
+00:07:50,920 --> 00:07:52,420
+The impact on her must have been immense.
+
+196
+00:07:52,879 --> 00:07:53,339
+Devastating.
+
+197
+00:07:53,800 --> 00:07:55,100
+She said she cried in ocean.
+
+198
+00:07:55,839 --> 00:07:58,079
+Losing the house broke her more than anything else.
+
+199
+00:07:58,079 --> 00:08:00,959
+It represented that feeling of home, of security
+
+200
+00:08:00,959 --> 00:08:02,379
+she'd been seeking her whole life.
+
+201
+00:08:02,759 --> 00:08:04,639
+Losing it felt like losing the last anchor.
+
+202
+00:08:04,959 --> 00:08:07,180
+And behind the scenes during all this chaos,
+
+203
+00:08:07,579 --> 00:08:08,379
+what was life like?
+
+204
+00:08:08,800 --> 00:08:10,980
+She describes feeling like she was constantly pretending,
+
+205
+00:08:11,439 --> 00:08:14,259
+deeply disconnected from herself in a really dark place,
+
+206
+00:08:14,660 --> 00:08:17,220
+barely going out, not seeing friends or family much.
+
+207
+00:08:17,339 --> 00:08:18,160
+And all the while,
+
+208
+00:08:18,459 --> 00:08:21,180
+these cheating rumors about Austin are swirling online.
+
+209
+00:08:21,620 --> 00:08:25,360
+Constantly, her initial reaction, her heart sank.
+
+210
+00:08:26,000 --> 00:08:29,600
+She even found herself wondering if he physically had the time to cheat,
+
+211
+00:08:30,019 --> 00:08:33,059
+remembering some saying about men always having time.
+
+212
+00:08:33,299 --> 00:08:34,519
+Did she see evidence herself?
+
+213
+00:08:34,700 --> 00:08:38,379
+She mentions getting random specific texts while he was right beside her.
+
+214
+00:08:38,799 --> 00:08:42,519
+It made it incredibly hard to know what was real and what wasn't.
+
+215
+00:08:42,820 --> 00:08:46,960
+So a mix of true, false, distorted information.
+
+216
+00:08:47,179 --> 00:08:49,659
+Exactly, just creating total confusion for her.
+
+217
+00:08:49,960 --> 00:08:53,860
+And she says she did confront him about the allegations early on.
+
+218
+00:08:53,860 --> 00:08:55,580
+What was his response back then?
+
+219
+00:08:56,000 --> 00:08:58,759
+Basically that it comes with the territory of being famous,
+
+220
+00:08:59,039 --> 00:09:01,139
+that they shouldn't respond because it would just make it worse.
+
+221
+00:09:01,659 --> 00:09:03,679
+And she says at that point, she trusted him.
+
+222
+00:09:03,840 --> 00:09:04,759
+She followed his lead.
+
+223
+00:09:05,360 --> 00:09:07,980
+Did she believe he was cheating right from the very start of the rumors?
+
+224
+00:09:08,340 --> 00:09:10,679
+No, she actually says she doesn't think he was cheating
+
+225
+00:09:10,679 --> 00:09:13,860
+right at the beginning when those first allegations surfaced.
+
+226
+00:09:13,919 --> 00:09:15,740
+Okay, so when did that shift happen?
+
+227
+00:09:15,940 --> 00:09:17,679
+When did suspicion turn into knowing?
+
+228
+00:09:18,179 --> 00:09:19,820
+She pinpoints a key moment.
+
+229
+00:09:20,139 --> 00:09:22,539
+The, oh shit, he's cheating realization.
+
+230
+00:09:22,539 --> 00:09:26,299
+It was after Austin went to Miami for a supposed meeting.
+
+231
+00:09:26,720 --> 00:09:28,860
+Their second daughter was only about six months old.
+
+232
+00:09:29,000 --> 00:09:30,120
+Did she question him going?
+
+233
+00:09:30,419 --> 00:09:30,899
+Not really.
+
+234
+00:09:31,100 --> 00:09:34,419
+She mentions her personality is usually trusting, giving partners freedom,
+
+235
+00:09:34,419 --> 00:09:37,980
+which she notes really contrasted with her mom's reaction,
+
+236
+00:09:38,159 --> 00:09:40,860
+who was like, why are you letting him go with such a young baby?
+
+237
+00:09:41,179 --> 00:09:42,460
+What happened while he was in Miami?
+
+238
+00:09:43,139 --> 00:09:44,740
+He accidentally pocket dialed her.
+
+239
+00:09:45,059 --> 00:09:46,799
+She heard women's voices in the background.
+
+240
+00:09:47,340 --> 00:09:49,419
+At the time, she kind of brushed it off like, okay,
+
+241
+00:09:49,460 --> 00:09:51,379
+I guess he's hanging out with women and hung up.
+
+242
+00:09:51,379 --> 00:09:52,980
+Didn't seem like a huge deal then.
+
+243
+00:09:53,259 --> 00:09:55,279
+But then something else came up later.
+
+244
+00:09:55,419 --> 00:09:56,159
+Months later, yeah.
+
+245
+00:09:56,720 --> 00:09:59,500
+A blonde male makeup artist posted a YouTube video,
+
+246
+00:09:59,779 --> 00:10:03,480
+and it had specific details about Austin, other women,
+
+247
+00:10:03,620 --> 00:10:05,879
+and a boat trip that same weekend in Miami.
+
+248
+00:10:06,679 --> 00:10:10,639
+And Catherine saw this video while she was secretly pregnant with their son.
+
+249
+00:10:10,720 --> 00:10:11,100
+Oh, wow.
+
+250
+00:10:11,519 --> 00:10:13,220
+How did she react to seeing that video?
+
+251
+00:10:13,419 --> 00:10:14,220
+Total breakdown.
+
+252
+00:10:14,639 --> 00:10:16,039
+Balling her eyes out, she said.
+
+253
+00:10:16,340 --> 00:10:17,960
+Questioning everything, was it true?
+
+254
+00:10:18,200 --> 00:10:19,159
+Was she being stupid?
+
+255
+00:10:19,159 --> 00:10:21,720
+Should she just try to keep the peace for the family?
+
+256
+00:10:22,100 --> 00:10:23,940
+She did confront Austin about that video.
+
+257
+00:10:24,120 --> 00:10:24,740
+And his reaction.
+
+258
+00:10:25,039 --> 00:10:25,440
+Denial.
+
+259
+00:10:25,980 --> 00:10:27,879
+Claim the guy was trying to extort him.
+
+260
+00:10:28,279 --> 00:10:32,500
+But Catherine says, deep down, she knew something was really wrong.
+
+261
+00:10:32,659 --> 00:10:35,179
+She just actively lied to herself, she was pregnant,
+
+262
+00:10:35,500 --> 00:10:38,100
+wanted to protect that little piece of peace they had left.
+
+263
+00:10:38,340 --> 00:10:40,000
+She also mentioned a dream around this time.
+
+264
+00:10:40,059 --> 00:10:40,940
+Yeah, really vivid.
+
+265
+00:10:41,340 --> 00:10:44,559
+A beautiful blonde woman turning into a demon on her bed,
+
+266
+00:10:44,940 --> 00:10:47,779
+woke up crying, felt eerie all day.
+
+267
+00:10:48,059 --> 00:10:48,940
+Very symbolic, right?
+
+268
+00:10:48,940 --> 00:10:49,320
+Definitely.
+
+269
+00:10:49,500 --> 00:10:53,399
+And that same day, something else happened, something concrete.
+
+270
+00:10:53,580 --> 00:10:53,779
+Yes.
+
+271
+00:10:54,059 --> 00:10:56,840
+They were filming for Vlogmas, at a salon,
+
+272
+00:10:57,220 --> 00:10:58,460
+getting their daughter's first haircut,
+
+273
+00:10:58,860 --> 00:11:01,059
+fans around, cameras rolling, the whole setup.
+
+274
+00:11:01,779 --> 00:11:02,440
+Her phone died.
+
+275
+00:11:02,879 --> 00:11:05,220
+She asked to use Austin's phone just to take a picture.
+
+276
+00:11:06,059 --> 00:11:09,139
+And she stresses she had never looked in his phone before, ever.
+
+277
+00:11:09,360 --> 00:11:09,759
+And then what?
+
+278
+00:11:10,000 --> 00:11:11,200
+The second she grabbed it,
+
+279
+00:11:11,399 --> 00:11:14,360
+a long text message popped right up on the screen from a woman.
+
+280
+00:11:14,919 --> 00:11:16,860
+And the content, what she quickly saw,
+
+281
+00:11:16,860 --> 00:11:19,220
+clearly implied an emotional relationship,
+
+282
+00:11:19,360 --> 00:11:21,620
+something like, if you really loved your wife.
+
+283
+00:11:21,720 --> 00:11:23,019
+Oh my god, in that moment.
+
+284
+00:11:23,200 --> 00:11:25,100
+Her heart just dropped, felt totally surreal,
+
+285
+00:11:25,259 --> 00:11:26,399
+like she wasn't on earth anymore.
+
+286
+00:11:26,899 --> 00:11:29,539
+And she's pregnant, people are watching, the cameras on her.
+
+287
+00:11:29,679 --> 00:11:30,500
+Did anyone else see it?
+
+288
+00:11:30,659 --> 00:11:31,659
+Their assistant saw it too.
+
+289
+00:11:32,080 --> 00:11:33,659
+Austin immediately grabbed the phone back
+
+290
+00:11:33,659 --> 00:11:35,460
+and deleted the message right there.
+
+291
+00:11:35,840 --> 00:11:37,519
+And for Catherine, that was it.
+
+292
+00:11:37,740 --> 00:11:40,379
+Oh my gosh, it's true, no more doubt.
+
+293
+00:11:40,700 --> 00:11:42,679
+How did she handle that, right then and there?
+
+294
+00:11:42,759 --> 00:11:45,899
+Somehow she kept calm, finished filming at the salon.
+
+295
+00:11:46,340 --> 00:11:49,440
+But in the car on the way home, she confronted him quietly
+
+296
+00:11:49,440 --> 00:11:50,600
+because the kids were there.
+
+297
+00:11:51,259 --> 00:11:53,340
+He was just evasive, it's nothing.
+
+298
+00:11:53,480 --> 00:11:54,059
+Look back home.
+
+299
+00:11:54,220 --> 00:11:58,379
+Full breakdown, yelling, screaming, begging him for the truth.
+
+300
+00:11:58,940 --> 00:12:00,740
+Feeling so stupid, she said,
+
+301
+00:12:00,820 --> 00:12:03,779
+because she'd been pregnant and ignoring her gut feeling for so long.
+
+302
+00:12:03,940 --> 00:12:04,539
+What did she do?
+
+303
+00:12:04,700 --> 00:12:07,879
+Ran out of the house, just drove around crying aimlessly,
+
+304
+00:12:08,559 --> 00:12:10,919
+ended up parking at a park, just praying,
+
+305
+00:12:11,299 --> 00:12:13,440
+God, if you hear me, please tell me what to do.
+
+306
+00:12:13,820 --> 00:12:15,080
+Did you feel like she got an answer?
+
+307
+00:12:15,080 --> 00:12:17,240
+She describes hearing this clear voice,
+
+308
+00:12:17,480 --> 00:12:19,720
+telling her to be strong for her son,
+
+309
+00:12:19,899 --> 00:12:21,940
+steal a name she already knew she'd use.
+
+310
+00:12:22,440 --> 00:12:24,519
+The voice told her not to make impulsive decisions,
+
+311
+00:12:24,820 --> 00:12:27,080
+just keep going, it would all make sense later.
+
+312
+00:12:27,259 --> 00:12:28,240
+So she went back home.
+
+313
+00:12:28,600 --> 00:12:33,120
+Yeah, decided to just act like nothing for a couple of days.
+
+314
+00:12:33,799 --> 00:12:35,700
+She said it was the longest they'd ever gone
+
+315
+00:12:35,700 --> 00:12:37,000
+without speaking since they met.
+
+316
+00:12:37,620 --> 00:12:40,220
+And after those couple of days, did they talk?
+
+317
+00:12:40,539 --> 00:12:41,799
+Yes, in the car again.
+
+318
+00:12:42,600 --> 00:12:45,639
+He finally told her who the woman from the text message was.
+
+319
+00:12:46,139 --> 00:12:47,320
+Did they clarify things?
+
+320
+00:12:47,559 --> 00:12:49,879
+It made things all make sense, she said.
+
+321
+00:12:50,799 --> 00:12:52,700
+She remembered him previously mentioning
+
+322
+00:12:52,700 --> 00:12:54,279
+helping some woman with Snapchat,
+
+323
+00:12:54,840 --> 00:12:56,279
+and it all clicked into place.
+
+324
+00:12:56,919 --> 00:12:58,600
+The lies, the denials.
+
+325
+00:12:58,799 --> 00:13:01,120
+And her reaction then, after he admitted it.
+
+326
+00:13:01,220 --> 00:13:04,259
+Surprisingly, maybe her first instinct was still forgiveness.
+
+327
+00:13:04,779 --> 00:13:06,539
+She felt he was maybe crying out for help.
+
+328
+00:13:07,220 --> 00:13:10,019
+That traditional view of marriage sticking by her husband
+
+329
+00:13:10,019 --> 00:13:11,440
+was still really strong.
+
+330
+00:13:11,799 --> 00:13:13,220
+Was this round the time they went to Hawaii?
+
+331
+00:13:13,580 --> 00:13:15,460
+Yeah, that trip was suggested for healing,
+
+332
+00:13:15,700 --> 00:13:18,559
+supposedly because Hawaii is the heart chakra of the planet,
+
+333
+00:13:18,720 --> 00:13:20,440
+a spiritual attempt to fix things.
+
+334
+00:13:20,679 --> 00:13:22,179
+And she announced her pregnancy from there.
+
+335
+00:13:22,419 --> 00:13:22,860
+She did.
+
+336
+00:13:23,080 --> 00:13:25,139
+She felt like she was carrying this huge secret
+
+337
+00:13:25,139 --> 00:13:26,700
+about the marriage falling apart
+
+338
+00:13:26,700 --> 00:13:28,980
+and just wanted to scream the truth but couldn't.
+
+339
+00:13:29,519 --> 00:13:31,080
+Announcing the pregnancy felt like
+
+340
+00:13:31,080 --> 00:13:32,779
+the only thing she could share publicly.
+
+341
+00:13:33,279 --> 00:13:37,039
+Looking back, she realized her focus was always on fixing it.
+
+342
+00:13:37,399 --> 00:13:39,159
+Always, how can we fix this?
+
+343
+00:13:39,159 --> 00:13:42,620
+Like it was a business problem, not this deep emotional betrayal.
+
+344
+00:13:43,440 --> 00:13:46,019
+She was so focused on trying to stay by him,
+
+345
+00:13:46,240 --> 00:13:48,679
+she wasn't really letting herself feel her own pain.
+
+346
+00:13:48,840 --> 00:13:52,360
+And Austin's reaction during all this, was he apologetic?
+
+347
+00:13:52,580 --> 00:13:55,179
+She says it never felt genuinely apologetic to her.
+
+348
+00:13:55,539 --> 00:13:56,360
+Not really.
+
+349
+00:13:56,919 --> 00:13:59,480
+And get this, she says he never actually uttered the words
+
+350
+00:13:59,480 --> 00:14:02,639
+I cheated to her until literally about a week before
+
+351
+00:14:02,639 --> 00:14:04,379
+this Call Her Daddy interview came out.
+
+352
+00:14:04,460 --> 00:14:04,779
+Wow.
+
+353
+00:14:05,320 --> 00:14:07,679
+Only when her book chapter detailing it was published.
+
+354
+00:14:07,960 --> 00:14:08,379
+Exactly.
+
+355
+00:14:08,379 --> 00:14:11,200
+She said finally hearing him say it, admit it,
+
+356
+00:14:11,299 --> 00:14:12,440
+was actually healing for her.
+
+357
+00:14:12,679 --> 00:14:13,360
+It was validation.
+
+358
+00:14:13,720 --> 00:14:15,980
+Proof she wasn't crazy after all those denials.
+
+359
+00:14:16,240 --> 00:14:18,740
+Why do you think he finally admitted it then, publicly?
+
+360
+00:14:19,100 --> 00:14:21,639
+She speculates maybe because the book called him out directly
+
+361
+00:14:21,639 --> 00:14:24,440
+or maybe he finally understood the bigger picture,
+
+362
+00:14:24,639 --> 00:14:25,179
+the consequences.
+
+363
+00:14:25,679 --> 00:14:28,220
+She also pushes back hard on something he claimed recently.
+
+364
+00:14:28,419 --> 00:14:28,779
+Oh yeah.
+
+365
+00:14:29,399 --> 00:14:31,399
+His claim in a video that she was basically
+
+366
+00:14:31,980 --> 00:14:33,940
+okay with it as long as you don't embarrass me.
+
+367
+00:14:34,179 --> 00:14:37,580
+She says that is absolutely not true and deeply hurtful.
+
+368
+00:14:37,580 --> 00:14:40,559
+Because it shifts the blame, avoids accountability.
+
+369
+00:14:41,159 --> 00:14:41,759
+Precisely.
+
+370
+00:14:42,299 --> 00:14:45,340
+She emphasizes she would never say that and it's not what she
+
+371
+00:14:45,340 --> 00:14:47,559
+teach her kids about relationships or cheating.
+
+372
+00:14:47,879 --> 00:14:51,399
+Did she confirm other affairs besides the one link to the text?
+
+373
+00:14:51,679 --> 00:14:51,879
+Yes.
+
+374
+00:14:52,220 --> 00:14:54,220
+She confirmed knowing about multiple women.
+
+375
+00:14:54,620 --> 00:14:57,700
+She specifically said she's for sure aware of three.
+
+376
+00:14:57,980 --> 00:14:58,179
+Okay.
+
+377
+00:14:58,299 --> 00:15:00,779
+And what about some of those really specific viral rumors
+
+378
+00:15:00,779 --> 00:15:03,179
+that Tana Mojo lipstick story?
+
+379
+00:15:03,600 --> 00:15:05,639
+Catherine believes Kanna's account is true
+
+380
+00:15:05,639 --> 00:15:10,820
+and she feels Tana covering for him basically confirmed it for her back then.
+
+381
+00:15:11,419 --> 00:15:12,100
+She was hurt.
+
+382
+00:15:12,580 --> 00:15:13,960
+Tana didn't tell her directly though.
+
+383
+00:15:14,220 --> 00:15:16,440
+The rumor about hiring nannies to sleep with.
+
+384
+00:15:16,980 --> 00:15:17,899
+False she says.
+
+385
+00:15:18,259 --> 00:15:19,440
+They never even had a nanny.
+
+386
+00:15:19,759 --> 00:15:21,559
+The yacht orgy rumor in Miami.
+
+387
+00:15:21,899 --> 00:15:25,000
+That one she says she got confirmation about years later
+
+388
+00:15:25,000 --> 00:15:28,240
+through a friend whose husband was actually there on the yacht that weekend.
+
+389
+00:15:28,419 --> 00:15:28,620
+Whoa.
+
+390
+00:15:29,019 --> 00:15:31,840
+And bringing his mistress to their own charity event at the Staple Center.
+
+391
+00:15:32,100 --> 00:15:33,259
+She confirms that's true.
+
+392
+00:15:33,259 --> 00:15:36,139
+Says it was the same woman from the text message incident.
+
+393
+00:15:36,559 --> 00:15:37,879
+A huge public betrayal.
+
+394
+00:15:38,000 --> 00:15:39,480
+Austin denied that one publicly, right?
+
+395
+00:15:39,659 --> 00:15:40,159
+He did.
+
+396
+00:15:40,539 --> 00:15:43,340
+Catherine sees that as him just trying to control the narrative
+
+397
+00:15:43,340 --> 00:15:46,659
+because it makes him look terrible doing that at a family event they were hosting.
+
+398
+00:15:47,179 --> 00:15:48,980
+But she insists it absolutely happened.
+
+399
+00:15:49,419 --> 00:15:52,899
+A family member of his even confirmed telling him not to bring that girl.
+
+400
+00:15:53,259 --> 00:15:56,639
+It was a big moment for her confirming the extent of the lies.
+
+401
+00:15:57,179 --> 00:15:58,740
+So with all this going on,
+
+402
+00:15:59,460 --> 00:16:02,940
+what happened to their intimacy, their sex life?
+
+403
+00:16:03,259 --> 00:16:05,679
+She explains that once she knew about the cheating,
+
+404
+00:16:06,080 --> 00:16:08,879
+she just checked out emotionally and physically.
+
+405
+00:16:09,299 --> 00:16:10,639
+She felt her body was a temple
+
+406
+00:16:10,639 --> 00:16:13,919
+and refused intimacy when there was no honesty between them.
+
+407
+00:16:14,120 --> 00:16:14,799
+For how long?
+
+408
+00:16:14,960 --> 00:16:18,259
+Essentially no intimacy for maybe four or five years.
+
+409
+00:16:18,580 --> 00:16:21,519
+Spanning postpartum periods, the allegations, pregnancies.
+
+410
+00:16:22,360 --> 00:16:22,919
+A long time.
+
+411
+00:16:23,059 --> 00:16:25,340
+Did she take any responsibility for that lack of intimacy?
+
+412
+00:16:25,580 --> 00:16:25,860
+She does.
+
+413
+00:16:26,000 --> 00:16:28,940
+She takes full accountability for not having serious talks about it
+
+414
+00:16:28,940 --> 00:16:30,960
+or seeking therapy together to address it.
+
+415
+00:16:30,960 --> 00:16:33,759
+But ultimately, the cheating was the final straw.
+
+416
+00:16:34,100 --> 00:16:34,480
+Absolutely.
+
+417
+00:16:34,720 --> 00:16:36,059
+She says that was the breaking point.
+
+418
+00:16:36,259 --> 00:16:38,340
+The marriage couldn't survive that level of betrayal.
+
+419
+00:16:39,159 --> 00:16:42,700
+And Austin's bizarre claim about her thinking she was the virgin Mary
+
+420
+00:16:43,360 --> 00:16:45,220
+reincarnated as the reason for no sex.
+
+421
+00:16:45,620 --> 00:16:48,960
+Yeah, she addressed that, calls it really hurtful,
+
+422
+00:16:49,179 --> 00:16:50,860
+and just the strange thing to say.
+
+423
+00:16:51,440 --> 00:16:53,799
+She sees it as him just throwing jabs,
+
+424
+00:16:53,980 --> 00:16:57,340
+trying to make her look crazy by twisting her spirituality,
+
+425
+00:16:57,559 --> 00:16:59,220
+her connection to Christ and Mother Mary,
+
+426
+00:16:59,220 --> 00:17:01,399
+into something weird or delusional.
+
+427
+00:17:01,740 --> 00:17:03,860
+Why did she keep all this secret for so long?
+
+428
+00:17:04,460 --> 00:17:05,559
+Not confide in anyone.
+
+429
+00:17:05,880 --> 00:17:06,799
+Several reasons.
+
+430
+00:17:07,240 --> 00:17:09,940
+She didn't want to change how people saw Austin initially.
+
+431
+00:17:10,599 --> 00:17:13,099
+She still held on to hope they could heal privately,
+
+432
+00:17:13,380 --> 00:17:15,900
+and she genuinely believes gossiping is poison.
+
+433
+00:17:16,480 --> 00:17:18,880
+So she didn't tell family until she decided on divorce.
+
+434
+00:17:19,160 --> 00:17:19,400
+Right.
+
+435
+00:17:19,680 --> 00:17:22,720
+Only told her parents and family when she knew for sure she wanted out.
+
+436
+00:17:23,099 --> 00:17:26,019
+But keeping it inside must have been incredibly difficult.
+
+437
+00:17:26,420 --> 00:17:28,180
+She admits it was eating her alive,
+
+438
+00:17:28,180 --> 00:17:30,640
+but eventually it felt like everybody knows anyway,
+
+439
+00:17:30,940 --> 00:17:32,759
+as things became more obvious publicly.
+
+440
+00:17:33,200 --> 00:17:34,619
+That pressure of keeping up appearances.
+
+441
+00:17:34,940 --> 00:17:36,160
+Huge impact on her,
+
+442
+00:17:36,279 --> 00:17:37,940
+feeling like she was in a fishbowl,
+
+443
+00:17:37,940 --> 00:17:40,059
+performing this happy family image
+
+444
+00:17:40,059 --> 00:17:42,500
+while living a completely different reality.
+
+445
+00:17:42,740 --> 00:17:44,559
+It sounds like a massive internal conflict.
+
+446
+00:17:44,740 --> 00:17:46,460
+Protect the image, the kid's stability.
+
+447
+00:17:46,619 --> 00:17:46,799
+Yeah.
+
+448
+00:17:47,200 --> 00:17:48,220
+Versus telling your truth.
+
+449
+00:17:48,500 --> 00:17:48,920
+Exactly.
+
+450
+00:17:49,519 --> 00:17:51,519
+Her priority was always being a mother first.
+
+451
+00:17:52,079 --> 00:17:53,779
+The thought of creating two homes,
+
+452
+00:17:54,039 --> 00:17:57,400
+figuring out a new livelihood, it was overwhelming.
+
+453
+00:17:57,400 --> 00:17:59,359
+Plus, being a content creator,
+
+454
+00:17:59,640 --> 00:18:01,099
+couple added another layer.
+
+455
+00:18:01,259 --> 00:18:03,339
+And the hardest part was his denial to her.
+
+456
+00:18:03,799 --> 00:18:06,279
+Yeah, because if he wouldn't admit it to her privately,
+
+457
+00:18:06,539 --> 00:18:07,559
+he'd never admit it publicly.
+
+458
+00:18:07,940 --> 00:18:09,440
+She felt completely gaslighted,
+
+459
+00:18:09,539 --> 00:18:11,319
+knowing the truth but being told she was wrong.
+
+460
+00:18:11,579 --> 00:18:13,039
+She mentioned the public judgment too.
+
+461
+00:18:14,240 --> 00:18:15,740
+People just judge on the surface,
+
+462
+00:18:16,039 --> 00:18:17,980
+she said, without knowing the full story.
+
+463
+00:18:18,160 --> 00:18:19,440
+And another reason for silence.
+
+464
+00:18:20,400 --> 00:18:22,539
+Not wanting to hurt him or the fans.
+
+465
+00:18:22,720 --> 00:18:22,960
+Yeah.
+
+466
+00:18:23,140 --> 00:18:25,880
+She didn't want to break the family in that public way,
+
+467
+00:18:25,880 --> 00:18:27,400
+disappoint millions of fans.
+
+468
+00:18:27,740 --> 00:18:29,960
+And she didn't want to see Austin face that humiliation.
+
+469
+00:18:30,579 --> 00:18:32,240
+She thought she could handle her own pain,
+
+470
+00:18:32,339 --> 00:18:33,819
+but maybe not his public scrutiny.
+
+471
+00:18:34,640 --> 00:18:36,839
+Ironic because he got the scrutiny anyway
+
+472
+00:18:36,839 --> 00:18:39,460
+and she realized she had to stop living the lie for herself.
+
+473
+00:18:40,079 --> 00:18:41,720
+So the final, final breaking point.
+
+474
+00:18:42,000 --> 00:18:44,460
+When did she know, okay, this is it, I have to leave now.
+
+475
+00:18:44,740 --> 00:18:47,920
+She describes a conversation right before one of Austin's boxing matches.
+
+476
+00:18:48,539 --> 00:18:51,059
+She finally said, I'm not happy.
+
+477
+00:18:51,799 --> 00:18:52,440
+His response.
+
+478
+00:18:53,480 --> 00:18:53,960
+Dismissive.
+
+479
+00:18:53,960 --> 00:18:56,460
+Told her not to bring it up with the fight so close.
+
+480
+00:18:56,660 --> 00:18:58,339
+Then he got sick right before the fight.
+
+481
+00:18:58,440 --> 00:18:59,420
+Yeah, 103 fever.
+
+482
+00:19:00,160 --> 00:19:04,180
+She saw it as symbolic, a message like a mirror of their internal chaos.
+
+483
+00:19:04,559 --> 00:19:05,619
+What about the fight itself?
+
+484
+00:19:06,559 --> 00:19:09,420
+Watching him get knocked down repeatedly but keep getting up.
+
+485
+00:19:10,460 --> 00:19:12,819
+It gave her this thought, this is who he is,
+
+486
+00:19:12,900 --> 00:19:14,039
+he always stands up when he falls.
+
+487
+00:19:14,839 --> 00:19:17,599
+She felt she heard a voice say it was an ego death for him
+
+488
+00:19:17,599 --> 00:19:19,680
+and she needed to hold space for him.
+
+489
+00:19:19,880 --> 00:19:22,119
+So even then still feeling protective?
+
+490
+00:19:22,119 --> 00:19:25,539
+In a way, in the ambulance afterward he was disoriented.
+
+491
+00:19:26,299 --> 00:19:28,799
+The next day she posted that picture holding his hand.
+
+492
+00:19:29,299 --> 00:19:30,799
+She explained it wasn't romantic love
+
+493
+00:19:30,799 --> 00:19:33,420
+but showing she was still there for him as family as a team.
+
+494
+00:19:33,940 --> 00:19:35,779
+No matter what I will always stand by his side.
+
+495
+00:19:36,119 --> 00:19:38,680
+But that moment also clarified something else for her.
+
+496
+00:19:39,019 --> 00:19:41,900
+Yes, it solidified she was okay being a family team
+
+497
+00:19:41,900 --> 00:19:44,740
+but they weren't really a team because the lies were still there.
+
+498
+00:19:45,079 --> 00:19:45,900
+He wasn't being honest.
+
+499
+00:19:46,240 --> 00:19:49,359
+When did the, it has to be 9W realization hit?
+
+500
+00:19:49,759 --> 00:19:50,940
+On her 33rd birthday.
+
+501
+00:19:50,940 --> 00:19:53,579
+A year she'd always felt would be significant.
+
+502
+00:19:54,359 --> 00:19:58,000
+That day she booked her flight for that spiritual retreat in Brazil.
+
+503
+00:19:59,119 --> 00:20:01,039
+That booking was the decision she says,
+
+504
+00:20:01,500 --> 00:20:03,059
+even if the words weren't spoken yet.
+
+505
+00:20:03,880 --> 00:20:06,480
+The separation felt inevitable in the air.
+
+506
+00:20:06,700 --> 00:20:10,279
+Okay, so the actual divorce conversation, when and how?
+
+507
+00:20:10,539 --> 00:20:12,079
+Right when she got back from Brazil.
+
+508
+00:20:12,819 --> 00:20:16,599
+She described the retreat as this massive expansive experience.
+
+509
+00:20:16,960 --> 00:20:18,599
+She got in the car with Austin at the airport.
+
+510
+00:20:18,839 --> 00:20:19,759
+And just told him.
+
+511
+00:20:19,759 --> 00:20:20,339
+Pretty directly.
+
+512
+00:20:20,819 --> 00:20:23,819
+It's not a secret that our relationship is done and we're both unhappy.
+
+513
+00:20:24,279 --> 00:20:24,759
+I want a divorce.
+
+514
+00:20:25,440 --> 00:20:26,039
+His reaction.
+
+515
+00:20:26,680 --> 00:20:26,940
+Okay.
+
+516
+00:20:27,539 --> 00:20:28,859
+She felt relief, even happiness.
+
+517
+00:20:29,359 --> 00:20:31,220
+Wanted to work on an exit plan together, keep it amicable.
+
+518
+00:20:32,019 --> 00:20:34,440
+Interestingly, his realtor had just sent him a listing
+
+519
+00:20:34,440 --> 00:20:35,740
+for a rental house down the street.
+
+520
+00:20:36,180 --> 00:20:38,180
+He saw it as interesting how life works.
+
+521
+00:20:38,460 --> 00:20:40,339
+They didn't do a joint announcement video though.
+
+522
+00:20:40,539 --> 00:20:40,799
+Why not?
+
+523
+00:20:41,099 --> 00:20:43,680
+Catherine felt if he couldn't be truthful off camera,
+
+524
+00:20:43,920 --> 00:20:46,940
+he wouldn't be truthful on camera about the real reasons,
+
+525
+00:20:47,160 --> 00:20:48,140
+especially the cheating.
+
+526
+00:20:48,740 --> 00:20:50,500
+She was willing to own her mistakes,
+
+527
+00:20:50,740 --> 00:20:53,119
+but he wasn't ready to be honest about his infidelity.
+
+528
+00:20:53,400 --> 00:20:55,059
+So she suggested a written statement.
+
+529
+00:20:55,460 --> 00:20:59,000
+Yeah, but he wanted a video offered to show it to her first.
+
+530
+00:21:00,000 --> 00:21:00,980
+She waited a month.
+
+531
+00:21:01,619 --> 00:21:04,900
+When she finally saw it, she felt it was social suicide for him,
+
+532
+00:21:04,960 --> 00:21:07,680
+just going around the truth, not vulnerable at all.
+
+533
+00:21:08,259 --> 00:21:09,559
+She told him she didn't like it.
+
+534
+00:21:09,779 --> 00:21:11,700
+And then something really disturbing happened.
+
+535
+00:21:12,200 --> 00:21:15,740
+She believes he secretly recorded her reaction
+
+536
+00:21:15,740 --> 00:21:18,779
+while she was watching that video and telling him she didn't like it.
+
+537
+00:21:18,779 --> 00:21:19,940
+You recorded her without consent?
+
+538
+00:21:20,180 --> 00:21:20,400
+Yes.
+
+539
+00:21:20,940 --> 00:21:23,400
+She feels he made the video knowing she wouldn't approve
+
+540
+00:21:23,400 --> 00:21:27,160
+and recorded her reaction purposefully, maybe to use later.
+
+541
+00:21:27,660 --> 00:21:29,759
+She calls it manipulative and illegal.
+
+542
+00:21:30,220 --> 00:21:30,619
+Wow.
+
+543
+00:21:30,960 --> 00:21:31,279
+Okay.
+
+544
+00:21:31,480 --> 00:21:33,059
+She also talked about using ayahuasca.
+
+545
+00:21:33,220 --> 00:21:33,519
+She did.
+
+546
+00:21:33,920 --> 00:21:36,500
+So she started during that really dark period,
+
+547
+00:21:36,660 --> 00:21:39,539
+marriage problems, losing the house, scams, all of it.
+
+548
+00:21:39,720 --> 00:21:40,640
+Was she doing it alone?
+
+549
+00:21:40,940 --> 00:21:42,880
+Her brother had used it for years and was supportive.
+
+550
+00:21:42,880 --> 00:21:46,859
+She described one ceremony leading to a full Kundalini awakening,
+
+551
+00:21:47,400 --> 00:21:49,579
+helping her remember things, changing her life.
+
+552
+00:21:50,099 --> 00:21:51,900
+She sees it as a very powerful tool.
+
+553
+00:21:52,059 --> 00:21:53,619
+Austin made claims about that too, right?
+
+554
+00:21:53,779 --> 00:21:54,859
+About the kids being there.
+
+555
+00:21:55,160 --> 00:21:57,319
+Yes, he claimed the kids were home during ceremonies.
+
+556
+00:21:58,380 --> 00:22:01,000
+She calls that a lie, deeply hurtful,
+
+557
+00:22:01,339 --> 00:22:03,640
+and another jab at something sacred to her.
+
+558
+00:22:04,200 --> 00:22:06,500
+Things people throw stones at things they don't understand.
+
+559
+00:22:06,940 --> 00:22:08,400
+Does she ever use it with Austin?
+
+560
+00:22:09,039 --> 00:22:10,559
+Or did others express concern?
+
+561
+00:22:10,920 --> 00:22:12,359
+No, never used it with him.
+
+562
+00:22:12,359 --> 00:22:15,819
+And she says no one close to her has ever expressed concern about her use.
+
+563
+00:22:16,039 --> 00:22:18,859
+And the weirdest claim that she turned him into a mermaid?
+
+564
+00:22:19,279 --> 00:22:19,799
+Huh, yeah.
+
+565
+00:22:20,119 --> 00:22:21,160
+She finds that funny now.
+
+566
+00:22:21,319 --> 00:22:24,539
+This explains it was just for a mermaid themed photo shoot
+
+567
+00:22:24,539 --> 00:22:26,319
+for her skincare line launch in Hawaii.
+
+568
+00:22:26,779 --> 00:22:27,759
+Just a fun shoot.
+
+569
+00:22:28,180 --> 00:22:29,380
+So why would he say that?
+
+570
+00:22:29,819 --> 00:22:32,759
+She thinks because people were making fun of the photos online already,
+
+571
+00:22:33,099 --> 00:22:35,980
+he just jumped on it to extra painter look crazy.
+
+572
+00:22:36,500 --> 00:22:37,920
+Another attempt to discredit her.
+
+573
+00:22:38,079 --> 00:22:40,759
+So fast forward, she's moved on, new relationship.
+
+574
+00:22:40,759 --> 00:22:44,339
+Yes, met her new partner Igor on that same Rizzo retreat,
+
+575
+00:22:44,799 --> 00:22:46,319
+middle of the Amazon, she said.
+
+576
+00:22:46,440 --> 00:22:48,019
+And she's open about the timeline now.
+
+577
+00:22:48,200 --> 00:22:48,460
+Very.
+
+578
+00:22:48,819 --> 00:22:49,920
+She owns it, she says.
+
+579
+00:22:50,539 --> 00:22:53,980
+Emphasizes her relationship with Austin was emotionally and intimately over
+
+580
+00:22:53,980 --> 00:22:55,559
+for years before she met Igor.
+
+581
+00:22:56,160 --> 00:22:57,359
+That's important context.
+
+582
+00:22:57,700 --> 00:22:59,619
+What was her mindset going into that retreat?
+
+583
+00:23:00,200 --> 00:23:01,299
+Was she looking for someone?
+
+584
+00:23:01,779 --> 00:23:02,460
+Quite the opposite.
+
+585
+00:23:03,059 --> 00:23:04,119
+I felt she had too much baggage.
+
+586
+00:23:04,880 --> 00:23:08,900
+Three kids, public figure, thought she'd be alone forever,
+
+587
+00:23:09,160 --> 00:23:10,059
+wasn't looking to date.
+
+588
+00:23:10,759 --> 00:23:13,839
+But she'd reached a point of feeling complete and whole in herself.
+
+589
+00:23:14,500 --> 00:23:15,359
+Relationship or not.
+
+590
+00:23:15,500 --> 00:23:17,359
+And the retreat changed that perspective.
+
+591
+00:23:17,619 --> 00:23:19,240
+Realized the baggage was all in my head.
+
+592
+00:23:19,980 --> 00:23:23,160
+Meeting Igor started is just friendship within that experience.
+
+593
+00:23:23,640 --> 00:23:24,480
+Never expected more.
+
+594
+00:23:24,900 --> 00:23:26,680
+How does she describe the new relationship?
+
+595
+00:23:27,019 --> 00:23:30,220
+Says she's never felt so safe, feels she really earned it
+
+596
+00:23:30,220 --> 00:23:31,380
+after everything she went through.
+
+597
+00:23:31,720 --> 00:23:33,640
+How do Austin and Igor get along?
+
+598
+00:23:34,220 --> 00:23:35,039
+Or seem to?
+
+599
+00:23:35,480 --> 00:23:38,059
+She can't speak for Austin's real feelings.
+
+600
+00:23:38,059 --> 00:23:42,380
+But she notes his public gestures, like getting Igor a stepfather shirt.
+
+601
+00:23:42,859 --> 00:23:43,660
+Kind of hard to read.
+
+602
+00:23:44,019 --> 00:23:45,920
+And has she met Austin's new partner?
+
+603
+00:23:46,240 --> 00:23:47,799
+Yes, about a year ago.
+
+604
+00:23:48,380 --> 00:23:51,539
+Says she likes her, trusts her kids, judgment and how they interact with her.
+
+605
+00:23:51,880 --> 00:23:53,299
+Doesn't judge their journey, basically.
+
+606
+00:23:53,759 --> 00:23:54,000
+Wow.
+
+607
+00:23:54,559 --> 00:23:56,940
+That is an incredible amount to process.
+
+608
+00:23:57,119 --> 00:24:00,900
+It really gives so much depth and context to a story that played out so publicly.
+
+609
+00:24:01,240 --> 00:24:03,220
+Yeah, from that dizzying rise to fame,
+
+610
+00:24:03,480 --> 00:24:05,400
+built on this image of a perfect family,
+
+611
+00:24:05,400 --> 00:24:11,059
+to the really profound struggles hidden underneath the finances, the infidelity.
+
+612
+00:24:11,460 --> 00:24:14,960
+It paints such a picture of that internal conflict she faced, right?
+
+613
+00:24:15,299 --> 00:24:19,240
+Trying to keep up the public image versus her private reality,
+
+614
+00:24:19,380 --> 00:24:20,799
+the tool it took on her sense of self.
+
+615
+00:24:20,920 --> 00:24:21,299
+Absolutely.
+
+616
+00:24:21,779 --> 00:24:24,599
+And then her incredibly difficult path towards healing,
+
+617
+00:24:25,220 --> 00:24:28,299
+finding her own voice, and ultimately a new beginning.
+
+618
+00:24:28,900 --> 00:24:30,960
+Her final message in the interview was about forgiveness.
+
+619
+00:24:31,519 --> 00:24:33,400
+Yeah, just forgiveness is key.
+
+620
+00:24:33,400 --> 00:24:36,660
+Simple but powerful given everything she described.
+
+621
+00:24:36,859 --> 00:24:39,740
+Her whole story just makes you think about the complexities, doesn't it?
+
+622
+00:24:39,819 --> 00:24:42,519
+The potential cost of that kind of public life,
+
+623
+00:24:42,619 --> 00:24:47,339
+how incredibly hard it must be to navigate trauma when everyone's watching.
+
+624
+00:24:47,480 --> 00:24:50,000
+And the strength it takes to break away from a situation,
+
+625
+00:24:50,400 --> 00:24:53,779
+even a painful one that feels familiar or safe.
+
+626
+00:24:54,180 --> 00:24:57,400
+It also shows how different people react, staying, leaving,
+
+627
+00:24:57,920 --> 00:25:00,180
+protecting the family image above all else.
+
+628
+00:25:00,559 --> 00:25:03,099
+It really leaves you with a potent thought to mull over, doesn't it?
+
+629
+00:25:03,400 --> 00:25:05,119
+In this age of constant sharing,
+
+630
+00:25:05,680 --> 00:25:08,019
+how does that pressure to maintain a perfect public image
+
+631
+00:25:08,019 --> 00:25:11,099
+actually change how we experience and how we respond to
+
+632
+00:25:11,099 --> 00:25:13,940
+our own private, often really messy, crises?
 

@@ -9,7 +9,7 @@
 #   --max_line_width 30 \
 #   --max_line_count 2 \
 
-python transcribe.py
+python transcribe.py 'audio.wav' 'subtitles/audio.srt'
 
 node index.js
 
@@ -29,6 +29,7 @@ ffmpeg -y \
 -pix_fmt yuv420p \
 final_video.mp4
 
+rm -f "output.mp4"
 # ffmpeg -y -i output.mp4 -vf subtitles=subtitles/audio.srt output_subtitle.mp4
 
 # ffmpeg -y -i output_subtitle.mp4 -ignore_loop 0 -i podcast.gif \

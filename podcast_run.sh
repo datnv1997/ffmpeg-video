@@ -32,8 +32,8 @@ for MAIN_AUDIO in podcast_audio/*.wav; do
   # === Bước 3: Mix audio + background ===
   ffmpeg -y -i "$WAV_FILE" -i rainy_road.mp3 -filter_complex "\
     [1:a]aloop=loop=-1:size=2e+09[a1]; \
-    [a1]volume=0.6[a1quiet]; \
-    [0:a]volume=2[a0]; \
+    [a1]volume=0.2[a1quiet]; \
+    [0:a]volume=3[a0]; \
     [a0][a1quiet]amix=inputs=2:duration=first:dropout_transition=3[aout]" \
     -map "[aout]" -shortest "$MIXED_AUDIO"
 
@@ -85,18 +85,16 @@ for MAIN_AUDIO in podcast_audio/*.wav; do
   TIMESTAMP=$(date "+%Y%m%d_%H%M%S")
   OUTNAME="podcast_output/${BASENAME}_${TIMESTAMP}.mp4"
 
-  ffmpeg -y \
+ ffmpeg -y \
   -i "$TMP_DIR/looped_video.mp4" \
   -i "$MIXED_AUDIO" \
   -ignore_loop 0 -i podcast.gif \
   -filter_complex "\
-    [2:v]scale=280:500[img]; \
-    [0:v][img]overlay=W-w-20:H-h-20[tmp1]; \
     movie=man.png,scale=200:200,hflip[man]; \
-    [tmp1][man]overlay=20:20[tmp2]; \
+    [0:v][man]overlay=20:240[tmp1]; \
     [2:v]scale=250:120[gif]; \
-    [tmp2][gif]overlay=20:300:shortest=1[tmp3]; \
-    [tmp3]eq=brightness=-0.09[dark]; \
+    [tmp1][gif]overlay=20:20[tmp2]; \
+    [tmp2]eq=brightness=-0.09[dark]; \
     [dark]subtitles=${SRT_FILE}[outv]" \
   -map "[outv]" -map 1:a \
   -c:v libx264 -crf 23 -preset ultrafast \
